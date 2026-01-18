@@ -17,7 +17,8 @@
       <section class="hero">
         <h1>Bienvenue à l'étang de Remerschen</h1>
         <p>Un lieu de détente, de baignade, de pêche et d’événements.</p>
-      </section>
+        <img src="file:///D:/Famille/Commun/Web/Remerschen/Baggerweier/Images/Erlefnis2.JPG"
+          alt="" title="Etang-Remerschen"> </section>
       <section class="grid">
         <article>
           <h2>Events</h2>
