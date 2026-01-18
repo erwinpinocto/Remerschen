@@ -142,7 +142,7 @@
           </button>
           <div class="content">
             <div class="content-inner">
-              <img src="../Images/Carpodrome.jpg" alt="Carpodrome" class="zone-img">
+              <img src="Images/Carpodrome.jpg" alt="Carpodrome" class="zone-img">
               <div class="zone-text">
                 <p>Zone dédiée aux pêcheurs à la carpe</p>
               </div>
@@ -158,7 +158,7 @@
           </button>
           <div class="content">
             <div class="content-inner">
-              <img src="../Images/zone2.png" alt="Kinderbecken" class="zone-img">
+              <img src="Images/zone2.png" alt="Kinderbecken" class="zone-img">
               <div class="zone-text">
                 <p>Zone dédiée aux enfants avec eau peu profonde et sécurité maximale.</p>
               </div>
@@ -174,7 +174,7 @@
           </button>
           <div class="content">
             <div class="content-inner">
-              <img src="../Images/zone3.png" alt="Chill out und Ponton" class="zone-img">
+              <img src="Images/zone3.png" alt="Chill out und Ponton" class="zone-img">
               <div class="zone-text">
                 <p>Relaxation, soleil, et ponton pour se détendre.</p>
               </div>
@@ -190,7 +190,7 @@
           </button>
           <div class="content">
             <div class="content-inner">
-              <img src="../Images/zone4.png" alt="Grillen und Sport" class="zone-img">
+              <img src="Images/zone4.png" alt="Grillen und Sport" class="zone-img">
               <div class="zone-text">
                 <p>Zone barbecue et sport, idéale pour les groupes et familles.</p>
               </div>
@@ -206,7 +206,7 @@
           </button>
           <div class="content">
             <div class="content-inner">
-              <img src="../Images/zone5.png" alt="Große Wiese" class="zone-img">
+              <img src="Images/zone5.png" alt="Große Wiese" class="zone-img">
               <div class="zone-text">
                 <p>Grande pelouse pour se détendre, jouer ou pique-niquer.</p>
               </div>
@@ -217,4 +217,110 @@
         <!-- 6 -->
         <div class="item">
           <button class="toggle">
-            <span class="toggle-title">
+            <span class="toggle-title">Hundestrand</span>
+            <span class="toggle-icon">+</span>
+          </button>
+          <div class="content">
+            <div class="content-inner">
+              <img src="Images/zone6.png" alt="Hundestrand" class="zone-img">
+              <div class="zone-text">
+                <p>Plage dédiée aux chiens, pour les balades et baignades.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 7 -->
+        <div class="item">
+          <button class="toggle">
+            <span class="toggle-title">FKK Strand</span>
+            <span class="toggle-icon">+</span>
+          </button>
+          <div class="content">
+            <div class="content-inner">
+              <img src="Images/zone7.png" alt="FKK Strand" class="zone-img">
+              <div class="zone-text">
+                <p>Plage naturiste, calme et tranquille.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 8 -->
+        <div class="item">
+          <button class="toggle">
+            <span class="toggle-title">Fauna und Flora</span>
+            <span class="toggle-icon">+</span>
+          </button>
+          <div class="content">
+            <div class="content-inner">
+              <img src="Images/zone8.png" alt="Fauna und Flora" class="zone-img">
+              <div class="zone-text">
+                <p>Observation de la faune et de la flore locale.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 9 -->
+        <div class="item">
+          <button class="toggle">
+            <span class="toggle-title">Schengen Strand</span>
+            <span class="toggle-icon">+</span>
+          </button>
+          <div class="content">
+            <div class="content-inner">
+              <img src="Images/zone9.png" alt="Schengen Strand" class="zone-img">
+              <div class="zone-text">
+                <p>Plage principale de Schengen, avec accès facile et confort.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- 10 -->
+        <div class="item">
+          <button class="toggle">
+            <span class="toggle-title">Grillen</span>
+            <span class="toggle-icon">+</span>
+          </button>
+          <div class="content">
+            <div class="content-inner">
+              <img src="Images/zone10.png" alt="Grillen" class="zone-img">
+              <div class="zone-text">
+                <p>Zone BBQ.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+    <script>
+      document.addEventListener("DOMContentLoaded", function () {
+        const items = document.querySelectorAll(".accordion .item");
+
+        items.forEach(item => {
+          const btn = item.querySelector(".toggle");
+          const content = item.querySelector(".content");
+
+          btn.addEventListener("click", function () {
+            if (item.classList.contains("open")) {
+              item.classList.remove("open");
+              content.style.maxHeight = null;
+            } else {
+              items.forEach(i => {
+                i.classList.remove("open");
+                i.querySelector(".content").style.maxHeight = null;
+              });
+
+              item.classList.add("open");
+              content.style.maxHeight = content.scrollHeight + "px";
+            }
+          });
+        });
+      });
+    </script>
+  </body>
+</html>
