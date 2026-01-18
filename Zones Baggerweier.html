@@ -101,6 +101,40 @@
     }
   </style>
   </head>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  const items = document.querySelectorAll(".accordion .item");
+
+  items.forEach(item => {
+    const btn = item.querySelector(".toggle");
+    const content = item.querySelector(".content");
+
+    btn.addEventListener("click", function () {
+
+      if (item.classList.contains("open")) {
+        // fermeture
+        item.classList.remove("open");
+        content.style.maxHeight = null;
+      } else {
+        // fermeture des autres
+        items.forEach(i => {
+          i.classList.remove("open");
+          i.querySelector(".content").style.maxHeight = null;
+        });
+
+        // ouverture
+        item.classList.add("open");
+        content.style.maxHeight = content.scrollHeight + "px";
+      }
+    });
+  });
+
+});
+</script>
+
+
   <body>
     <div class="container">
       <h1>Baggerweier Zonen</h1>
