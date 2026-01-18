@@ -31,6 +31,35 @@
         <img src="Images/Randonn%C3%A9e.JPG" alt="Randonnée" longdesc="https://www.visitluxembourg.com/fr/tour/circuit-pedestre-remerschen"
           style="width: 434px; height: 549px;"><br>
         <a href="https://www.visitluxembourg.com/fr/tour/circuit-pedestre-remerschen">https://www.visitluxembourg.com/fr/tour/circuit-pedestre-remerschen</a><br>
+        <br>
+        <h3>Ticketinformationen</h3>
+        <table class="abTicketInfo">
+          <tbody>
+            <tr>
+              <td><strong>Erwachsene und Kinder ab 12 Jahre</strong></td>
+              <td>6 Euro</td>
+            </tr>
+            <tr>
+              <td><strong>Kinder, jünger als 12 Jahre</strong></td>
+              <td>3 Euro</td>
+            </tr>
+            <tr>
+              <td><strong>Bis 3 Jahre</strong></td>
+              <td>Kostenlos</td>
+            </tr>
+            <tr>
+              <td><strong>Jahresabo Erwachsener/Jugentlicher</strong> (ab 12
+                Jahren)</td>
+              <td>60 Euro</td>
+            </tr>
+            <tr>
+              <td><strong>Jahresabo Kinder</strong> (3-11 Jahre)</td>
+              <td>30 Euro</td>
+            </tr>
+          </tbody>
+        </table>
+        <br>
+        <br>
       </section>
     </main>
     <footer>
