@@ -1,43 +1,35 @@
 <!DOCTYPE html>
 <html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Loisirs - Étang de Remerschen</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <header>
-    <div class="logo">Étang de Remerschen</div>
-    <nav>
-      <a href="index.html">Accueil</a>
-      <a href="events.html">Events</a>
-      <a href="carpodrome.html">Carpodrome</a>
-      <a href="loisirs.html" class="active">Loisirs</a>
-      <a href="tickets.html">Tickets</a>
-    </nav>
-  </header>
-
-  <main>
-    <section class="page-title">
-      <h1>Loisirs</h1>
-      <p>Activités et services disponibles sur le site.</p>
-    </section>
-
-    <section class="content">
-      <h2>Baignade</h2>
-      <p>Zone surveillée, plage, douches.</p>
-
-      <h2>Aire de jeux</h2>
-      <p>Pour enfants, tables de pique-nique.</p>
-
-      <h2>Promenades</h2>
-      <p>Sentiers autour de l’étang.</p>
-    </section>
-  </main>
-
-  <footer>
-    <p>© 2026 Étang de Remerschen</p>
-  </footer>
-</body>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loisirs - Étang de Remerschen</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <div class="logo">Étang de Remerschen</div>
+      <nav> <a href="index.html">Accueil</a> <a href="events.html">Events</a>
+        <a href="carpodrome.html">Carpodrome</a> <a href="loisirs.html" class="active">Loisirs</a>
+        <a href="tickets.html">Tickets</a> </nav>
+    </header>
+    <main>
+      <section class="page-title">
+        <h1>Loisirs</h1>
+        <p>Activités et services disponibles sur le site.</p>
+        <img src="file:///D:/Famille/Commun/Web/Remerschen/Baggerweier/Images/Erlefniss.JPG"
+          alt=""> </section>
+      <section class="content">
+        <h2>Baignade</h2>
+        <p>Zone surveillée, plage, douches.</p>
+        <h2>Aire de jeux</h2>
+        <p>Pour enfants, tables de pique-nique.</p>
+        <h2>Promenades</h2>
+        <p>Sentiers autour de l’étang.</p>
+      </section>
+    </main>
+    <footer>
+      <p>© 2026 Étang de Remerschen</p>
+    </footer>
+  </body>
 </html>
