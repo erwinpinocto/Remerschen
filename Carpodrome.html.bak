@@ -1,44 +1,62 @@
 <!DOCTYPE html>
 <html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Carpodrome - Étang de Remerschen</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <header>
-    <div class="logo">Étang de Remerschen</div>
-    <nav>
-      <a href="index.html">Accueil</a>
-      <a href="events.html">Events</a>
-      <a href="carpodrome.html" class="active">Carpodrome</a>
-      <a href="loisirs.html">Loisirs</a>
-      <a href="tickets.html">Tickets</a>
-    </nav>
-  </header>
-
-  <main>
-    <section class="page-title">
-      <h1>Carpodrome</h1>
-      <p>Tout ce qu’il faut savoir sur le carpodrome et la pêche.</p>
-    </section>
-
-    <section class="content">
-      <h2>Règles et accès</h2>
-      <p>Accès réservé aux membres. Carte annuelle nécessaire.</p>
-
-      <h2>Horaires</h2>
-      <p>Ouvert tous les jours de 7h à 19h.</p>
-
-      <h2>Tarifs</h2>
-      <p>Carte annuelle : 80€</p>
-      <p>Carte journée : 15€</p>
-    </section>
-  </main>
-
-  <footer>
-    <p>© 2026 Étang de Remerschen</p>
-  </footer>
-</body>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carpodrome - Étang de Remerschen</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <div class="logo">Étang de Remerschen</div>
+      <nav> <a href="index.html">Accueil</a> <a href="events.html">Events</a>
+        <a href="carpodrome.html" class="active">Carpodrome</a> <a href="loisirs.html">Loisirs</a>
+        <a href="tickets.html">Tickets</a> </nav>
+    </header>
+    <main>
+      <section class="page-title">
+        <h1>Carpodrome</h1>
+        <p>Tout ce qu’il faut savoir sur le carpodrome et la pêche.</p>
+        <img src="Images/Feschweier3.JPG" alt="Image de carpe"> </section>
+      <section class="content">
+        <h2>Règles et accès</h2>
+        <p>Accès réservé aux membres. Carte annuelle nécessaire.</p>
+        <h2>Horaires</h2>
+        <p>Ouvert de mi-janvier à mi-décembre</p>
+        <table>
+          <thead>
+            <tr>
+              <th colspan="2">Mai - September</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Montag - Sonntag</td>
+              <td>7:30 - 18:00</td>
+            </tr>
+          </tbody>
+        </table>
+        <table>
+          <thead>
+            <tr>
+              <th colspan="2">September - Mai</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Montag - Sonntag</td>
+              <td>7:30 - 16:30</td>
+            </tr>
+          </tbody>
+        </table>
+        <p></p>
+        <h2>Tarifs</h2>
+        <p>Carte annuelle : 80€</p>
+        <p>Carte journée : 15€</p>
+      </section>
+    </main>
+    <footer>
+      <p>© 2026 Étang de Remerschen</p>
+    </footer>
+  </body>
 </html>
