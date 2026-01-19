@@ -14,9 +14,11 @@
       <div class="logo"><br>
       </div>
       <nav> <a href="index.html">Accueil</a> <a href="events.html">Events</a>
-        <a href="carpodrome.html">Carpodrome</a> <a href="loisirs.html">Loisirs</a>
-        <a href="tickets.html">Tickets</a> <a href="contact.html">Contact</a> <a
-          href="partners.html" class="active">Partenaires</a> </nav>
+        <a href="carpodrome.html">Carpodrome</a>
+        <a href="loisirs.html">Loisirs</a>
+        <a href="tickets.html">Tickets</a> 
+        <a href="contact.html">Contact</a> 
+        <a href="partners.html" class="active">Partenaires</a>
     </header>
     <main>
       <section class="hero">
@@ -27,30 +29,10 @@
         <br>
         <strong><em>Qui sommes-nous ?</em></strong><br>
         <br>
-        L'origine des « Baggerweieren » (étangs de gravière) remonte aux années
-        1950 et 1960, lorsque l'exploitation des sablières locales cessa et que
-        les bassins ainsi formés se remplirent d'eau provenant de sources
-        souterraines.<br>
-        En 2020, la municipalité de Schengen, propriétaire du terrain, a confié
-        la gestion et l'exploitation de cet espace de loisirs à l'association «
-        Erliefnis Baggerweier ».<br>
-        L'association « Erliefnis Baggerweier » remplit sa mission sociale de
-        favoriser l'insertion professionnelle et la réinsertion de personnes de
-        tous horizons en améliorant les infrastructures existantes sur le site
-        et ses alentours. Une approche respectueuse de l'environnement est
-        particulièrement privilégiée.<br>
-        Aux « Baggerweieren », nous serons ravis d'accueillir les visiteurs
-        venus se baigner, bronzer, se promener ou profiter d'activités de plein
-        air. Nous proposons également des programmes de sensibilisation,
-        d'information, de formation et de cohésion d'équipe. Nous continuerons à
-        travailler à améliorer l'attractivité du site et à diversifier nos
-        offres afin de répondre aux différents besoins personnels de nos
-        clients.<br>
+        (description de l'association)<br>
       </section>
       <section class="grid">
         <article>
-          <h2><br>
-          </h2>
           <h2>Events</h2>
           <p>Concerts, marchés, soirées, animations…</p>
           <a class="btn" href="events.html">Voir le planning</a> </article>
