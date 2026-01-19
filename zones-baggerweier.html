@@ -136,9 +136,9 @@
         </button>
         <div class="content">
           <div class="content-inner">
-            <img src="images/Carpodrome.jpg" alt="Carpodrome" class="zone-img">
+            <img src="images/carpodrome.jpg" alt="Carpodrome" class="zone-img">
             <div class="zone-text">
-              <p>Zone dédiée aux pêcheurs à la carpe</p>
+              <p>Zone dédiée aux pêcheurs à la carpe.</p>
             </div>
           </div>
         </div>
@@ -265,4 +265,40 @@
         <div class="content">
           <div class="content-inner">
             <img src="images/zone9.png" alt="Schengen Strand" class="zone-img">
-            <div class="zone-text
+            <div class="zone-text">
+              <p>Plage côté Schengen, idéale pour la baignade et les promenades.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <script>
+    document.querySelectorAll('.accordion .toggle').forEach(btn => {
+      btn.addEventListener('click', () => {
+        const item = btn.closest('.item');
+        const content = item.querySelector('.content');
+
+        // Fermer tous les autres
+        document.querySelectorAll('.accordion .item').forEach(i => {
+          if (i !== item) {
+            i.classList.remove('open');
+            i.querySelector('.content').style.maxHeight = null;
+          }
+        });
+
+        // Ouvrir/fermer celui cliqué
+        if (item.classList.contains('open')) {
+          item.classList.remove('open');
+          content.style.maxHeight = null;
+        } else {
+          item.classList.add('open');
+          content.style.maxHeight = content.scrollHeight + "px";
+        }
+      });
+    });
+  </script>
+</body>
+</html>
