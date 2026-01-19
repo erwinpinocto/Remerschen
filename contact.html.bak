@@ -16,7 +16,7 @@
     <main class="contact-page">
       <section class="contact-header">
         <h1>Contact</h1>
-        <br>
+        <img src="images/contact.jpg" alt="Contact" class="contact-header-img" style="width: 689px; height: 438px;">
       </section>
       <section class="contact-content">
         <div class="contact-left"> <img src="images/team.jpg" alt="Equipe" class="contact-team"
