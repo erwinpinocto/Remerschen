@@ -438,3 +438,17 @@ footer {
   position: absolute;
   left: 0;
 }
+
+/* Container du widget météo */
+.weather-container {
+  max-width: 300px;        /* Largeur maximale */
+  margin: 10px auto;       /* Centre horizontalement et ajoute un petit espace vertical */
+  text-align: center;      /* Centre le contenu à l’intérieur */
+}
+
+/* Optionnel : ajustement du widget pour qu’il ne dépasse pas la zone */
+.weather-container iframe,
+.weather-container a {
+  width: 100% !important;  /* S’adapte à la largeur du container */
+  height: auto !important;
+}
