@@ -1,0 +1,114 @@
+1. Page d’accueil :
+
+    x Modifier : Brassards jusqu’à 8 ans (au lieu de 7 ans)
+    x Stand-up paddle PMR : 1h15
+    x Régiondo ne fonctionne pas → vérifier le lien
+
+2. Page Baggerweier :
+
+    x Remplacer : Zone surveillée par Baignade – bassin pour enfants surveillé
+    x Voir le PDF « Baignade en toute sécurité » (uniquement la 1ère page)
+
+3. Activités nautiques :
+
+    x Remplacer partout : barques par bateaux à rames (pour éviter toute confusion)
+
+4. Côté Fun :
+
+    x Remplacement de la photo 2
+
+5. Plage pour chiens :
+
+    x  Nouvelle photo + règlement à intégrer (enlever la signature)
+
+6. Découvrir la région :
+
+    x Corriger : Possenhaus (au lieu de Postenhaus – apparaît 2x)
+
+7. Carpodrome – Erliefnis Baggerweier Remerschen :
+
+    x Nouvelles photos + nouveau texte (ci-dessous)
+    x Mise à jour des horaires :
+        Septembre – Mai : 08h00 – 16h00
+        Mai – Septembre : 08h00 – 18h00
+    x Événements Carpodrome : nouvelles photos
+    x Modifier le formulaire : “Réservation” → “Demande de réservation”
+   x Ajouter le nouveau règlement de pêche (en annexe)
+
+x Texte à intégrer :
+
+Carpodrome – Erliefnis Baggerweier Remerschen
+Un lieu unique entre nature, pêche et convivialité
+
+Au cœur du magnifique site naturel de l’Erliefnis Baggerweier à Remerschen, le Carpodrome invite les visiteurs à vivre une expérience unique mêlant nature, détente et passion de la pêche. Situé dans un environnement verdoyant à proximité de la Moselle, ce lieu est devenu au fil des années une véritable destination de loisirs où se rencontrent pêcheurs, familles, amis et entreprises à la recherche d’un moment authentique en plein air.
+
+Un cadre naturel exceptionnel
+Entouré de paysages paisibles et d’une nature préservée, le Carpodrome offre un cadre idéal pour se ressourcer loin de l’agitation du quotidien. Les deux étangs spécialement aménagés pour la pêche à la carpe s’intègrent parfaitement dans cet environnement naturel et permettent aux visiteurs de profiter d’une atmosphère calme et relaxante.
+Le site dispose de plus de trente pontons de pêche confortables, dont certains accessibles aux personnes à mobilité réduite, afin que chacun puisse profiter pleinement de l’expérience.
+
+La pêche pour tous
+Au Carpodrome, la pêche est avant tout un loisir accessible à tous. Que vous soyez pêcheur expérimenté, débutant ou simplement curieux de découvrir cette activité, tout est pensé pour permettre à chacun de profiter pleinement du moment.
+L’accessibilité est une priorité : les infrastructures sont aménagées afin de garantir un accès facile et confortable pour tous les visiteurs, y compris les personnes à mobilité réduite. Le Carpodrome souhaite ainsi offrir une expérience inclusive où chacun peut partager le plaisir de la pêche dans les meilleures conditions.
+
+Une pêche responsable
+La pêche au Carpodrome se pratique selon le principe « No Kill », qui garantit la protection des poissons et le respect de l’écosystème. Les carpes sont remises à l’eau après la capture, permettant ainsi de préserver l’équilibre du plan d’eau tout en offrant aux pêcheurs des sensations uniques.
+
+Concours et événements autour de la pêche
+Le Carpodrome est également un lieu de rencontre incontournable pour la communauté des pêcheurs. Des concours de pêche y sont régulièrement organisés, rassemblant des participants venus de toute la région. Ces événements créent une atmosphère dynamique et chaleureuse, où passion, fair-play et convivialité sont toujours au rendez-vous.
+
+Location de matériel
+Pour permettre à chacun de découvrir la pêche dans les meilleures conditions, du matériel de pêche peut être loué directement sur place. Les débutants comme les visiteurs de passage peuvent ainsi profiter pleinement de l’expérience, même sans équipement personnel.
+
+Événements sur mesure
+Bien plus qu’un simple site de pêche, le Carpodrome est devenu un lieu idéal pour organiser des événements privés ou professionnels. Anniversaires, fêtes entre amis, sorties d’entreprise, journées de team building ou événements associatifs : le cadre naturel et l’ambiance conviviale du site offrent une alternative originale pour des moments mémorables.
+Chaque événement peut être organisé sur mesure afin de créer une expérience unique pour les participants.
+
+Un lieu de détente et de partage
+Au Carpodrome, la pêche n’est qu’une partie de l’expérience. Le site est aussi un véritable lieu de vie où l’on vient profiter de l’instant présent. Les visiteurs peuvent se retrouver autour d’un verre, discuter entre passionnés, partager un moment en famille ou entre amis et même profiter d’une partie de pétanque dans une ambiance chaleureuse.
+Que ce soit pour quelques heures ou pour une journée entière, le Carpodrome de Remerschen est l’endroit idéal pour se reconnecter à la nature, partager des moments conviviaux et vivre une expérience authentique au bord de l’eau.
+
+8. Qui sommes-nous / Histoire :
+
+    x Ajouter : Erliefnis Baggerweier asbl (harmoniser sauts de lignes)
+    x Remplacer les photos
+    x Ajouter :
+        Agréments : AP2020/1 | AP2023/1 (Ministère de la Famille, des Solidarités, du Vivre ensemble et de l’Accueil) + lien vers leur site
+        Convention avec le Ministère du Travail
+        Numéro RCS : F11981
+
+9. Ateliers et formations :
+
+    x Remplacement des photos
+
+10. Événements :
+
+    x Formulaire → Demande de réservation
+    x Ajouter le flyer : Marché de la Marina
+
+11. FAQ :
+
+    Ajouter/modifier :
+        x Baignade surveillée au bassin pour enfants
+        (en cours) Possibilité de renvoi vers les pages/articles correspondants
+        x Peut-on travailler au Baggerweier :
+            Ouvert aux étudiants, saisonniers et bénévoles
+       x Vérifier si le règlement Baggerweier est bien présent sur le site
+        x Les ateliers sont ouverts à tous, notamment : personnes en situation de handicap, personnes orientées vers un atelier protégé.
+        x (doublon à corriger)
+
+12. Recrutement :
+
+    x Ajouter :
+        Personnes en situation de handicap
+        Saisonniers
+        Étudiants
+
+13. Ajouter § accessibilité
+
+14. x Corriger les langues events Carpodrome
+
+Div
+Clarifier le plan des zones de pêche vs Carpodrome, incohérence 15/09 - 10/10, correction horaires
+Musée possen ?
+Regiondo à revoir ?
+

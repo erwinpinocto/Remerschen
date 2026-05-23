@@ -1,0 +1,31 @@
+/* === DEBUG LAYOUT === */
+
+section {
+  outline: 2px solid rgba(255,0,0,0.4);
+}
+
+.bloc-2cols {
+  outline: 3px solid blue;
+}
+
+.bloc-left {
+  outline: 2px dashed green;
+}
+
+.bloc-right {
+  outline: 2px dashed orange;
+}
+
+.hero {
+  outline: 3px solid purple;
+}
+
+img {
+  outline: 2px solid magenta;
+    background: rgba(255,0,255,0.15);
+}
+
+/* === Pour voir toutes les boîtes === */
+* {
+  outline: 1px solid rgba(0,0,0,0.15);
+} 

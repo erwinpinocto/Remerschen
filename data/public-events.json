@@ -1,0 +1,134 @@
+[
+    {
+        "id": "event_20261205_1",
+        "created_at": "2026-03-14",
+        "date_start": "2026-12-04",
+        "date_end": "2026-12-06",
+        "date_display": "",
+        "time_start": "",
+        "time_end": "",
+        "location": "",
+        "published": true,
+        "link": "\/pages\/wantermoart_2026.php",
+        "image": "news_events\/event_winter1.jpg",
+        "translations": {
+            "fr": {
+                "title": "Wantermoart",
+                "text": "Un marché nocturne hivernal festif.\r\nTélécharger la fiche d'inscription ci-dessous.",
+                "details": "Pour toute réservation, merci de remplir le formulaire correspondant et de nous le renvoyer en PDF par email.",
+                "bullets": []
+            },
+            "de": {
+                "title": "Wantermoart",
+                "text": "Ein festlicher winterlicher Nachtmarkt.\r\nLaden Sie unten das Anmeldeformular herunter.",
+                "details": "Für Reservierungen füllen Sie bitte das entsprechende Formular aus und senden Sie es uns als PDF per E-Mail zurück.",
+                "bullets": []
+            },
+            "en": {
+                "title": "Wantermoart",
+                "text": "A festive winter night market.\r\nDownload the registration form below.",
+                "details": "For bookings, please complete the corresponding form and send it back to us as a PDF by email.",
+                "bullets": []
+            }
+        }
+    },
+    {
+        "id": "event_20260809_1",
+        "created_at": "2026-03-14",
+        "date_start": "2026-08-09",
+        "date_end": "2026-08-09",
+        "date_display": "",
+        "time_start": "10:00",
+        "time_end": "22:00",
+        "location": "Schengen Marina",
+        "published": true,
+        "link": "",
+        "image": "news_events\/sm_festival_2026.jpg",
+        "translations": {
+            "fr": {
+                "title": "Schengen Marina Festival",
+                "text": "Le rendez-vous des amateurs de véhicules de collection, mais aussi de loisirs nautiques.",
+                "details": "",
+                "bullets": []
+            },
+            "de": {
+                "title": "Schengen Marina Festival",
+                "text": "Das Treffen für Liebhaber von Oldtimern sowie für Fans von Wassersport und Freizeitaktivitäten.",
+                "details": "",
+                "bullets": []
+            },
+            "en": {
+                "title": "Schengen Marina Festival",
+                "text": "A gathering for classic vehicle enthusiasts as well as lovers of water sports and leisure activities.",
+                "details": "",
+                "bullets": []
+            }
+        }
+    },
+    {
+        "id": "event_20260523_1",
+        "created_at": "2026-05-23",
+        "date_start": "2026-05-23",
+        "date_end": "2026-05-23",
+        "date_display": "",
+        "time_start": "",
+        "time_end": "",
+        "location": "",
+        "published": true,
+        "link": "",
+        "image": "",
+        "translations": {
+            "fr": {
+                "title": "Test samedi",
+                "text": "",
+                "details": "",
+                "bullets": []
+            },
+            "de": {
+                "title": "",
+                "text": "",
+                "details": "",
+                "bullets": []
+            },
+            "en": {
+                "title": "",
+                "text": "",
+                "details": "",
+                "bullets": []
+            }
+        }
+    },
+    {
+        "id": "event_20260101_1",
+        "created_at": "2026-03-14",
+        "date_start": "2026-01-01",
+        "date_end": "2026-12-31",
+        "date_display": "Chaque 1er mercredi du mois\/Every first Wednesday of the month\/Jeden ersten Mittwoch im Monat",
+        "time_start": "09:00",
+        "time_end": "14:00",
+        "location": "Schengen Marina",
+        "published": true,
+        "link": "",
+        "image": "news_events\/marina_freschmoart.jpg",
+        "translations": {
+            "fr": {
+                "title": "Marché local à la marina",
+                "text": "Produits du terroir.",
+                "details": "",
+                "bullets": []
+            },
+            "de": {
+                "title": "Lokaler Markt in der Marina",
+                "text": "Regionale Produkte.",
+                "details": "",
+                "bullets": []
+            },
+            "en": {
+                "title": "Local market at the marina",
+                "text": "Local produce.",
+                "details": "",
+                "bullets": []
+            }
+        }
+    }
+]

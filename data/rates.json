@@ -1,0 +1,74 @@
+{
+	"carpodrome": {
+		"title_key": "rates.carpo.title",
+		"sections": [
+			{
+				"id": "carpo_public",
+				"title_key": "rates.carpo.public.title",
+				"visible_in": ["home", "carpodrome", "flyer"],
+				"lignes": [
+					{"id": "half_day", "label_key": "rates.carpo.public.half_day.label", "details_key": "rates.carpo.public.half_day.details", "prix": "7 €"},
+					{"id": "day", "label_key": "rates.carpo.public.day.label", "details_key": "rates.carpo.public.day.details", "prix": "10 €"},
+					{"id": "rod_rental", "label_key": "rates.carpo.public.rod_rental.label", "details_key": "rates.carpo.public.rod_rental.details", "prix": "8 €"},
+					{"id": "half_season", "label_key": "rates.carpo.public.half_season.label", "details_key": "rates.carpo.public.half_season.details", "prix": "40 €"},
+					{"id": "annual_standard", "label_key": "rates.carpo.public.annual_standard.label", "details_key": "rates.carpo.public.annual_standard.details", "prix": "70 €"},
+					{"id": "annual_plus", "label_key": "rates.carpo.public.annual_plus.label", "details_key": "rates.carpo.public.annual_plus.details", "prix": "90 €"},
+					{"id": "annual_resident", "label_key": "rates.carpo.public.annual_resident.label", "details_key": "rates.carpo.public.annual_resident.details", "prix": "60 €"}
+				]
+			},
+			{
+				"id": "carpodrome_prives",
+				"title_key": "rates.carpo.private.title",
+				"visible_in": ["carpodrome", "flyer"],
+				"lignes": [
+					{"id": "f1_spots", "label_key": "rates.carpo.private.f1_spots.label", "prix": "120 €"},
+					{"id": "half_carpo", "label_key": "rates.carpo.private.half_carpo.label", "prix": "150 €"},
+					{"id": "full_carpo", "label_key": "rates.carpo.private.full_carpo.label", "prix": "300 €"}
+				]
+			}
+		]
+	},
+	"loisirs": {
+		"title_key": "rates.loisirs.title",
+		"sections": [
+			{
+				"id": "baggerweier_entrees",
+				"title_key": "rates.loisirs.entries.title",
+				"visible_in": ["home", "loisirs", "flyer"],
+				"lignes": [
+					{"id": "day_adult_12_plus", "label_key": "rates.loisirs.entries.day_adult_12_plus.label", "prix": "6 €"},
+					{"id": "day_child_under_12", "label_key": "rates.loisirs.entries.day_child_under_12.label", "prix": "3 €"},
+					{"id": "under_3", "label_key": "rates.loisirs.entries.under_3.label", "prix": "0 €"},
+					{"id": "annual_adult_12_plus", "label_key": "rates.loisirs.entries.annual_adult_12_plus.label", "prix": "60 €"},
+					{"id": "annual_child_3_11", "label_key": "rates.loisirs.entries.annual_child_3_11.label", "prix": "30 €"}
+				]
+			},
+			{
+				"id": "baggerweier_equipements",
+				"title_key": "rates.loisirs.equip.title",
+				"visible_in": ["loisirs", "flyer"],
+				"lignes": [
+					{"id": "bbq_areas", "label_key": "rates.loisirs.equip.bbq_areas.label", "prix": ""},
+					{"id": "weber_bbq_rental", "label_key": "rates.loisirs.equip.weber_bbq_rental.label", "prix": "50 €"},
+					{"id": "extra_charcoal_pack", "label_key": "rates.loisirs.equip.extra_charcoal_pack.label", "prix": "5 €"},
+					{"id": "water_activities", "label_key": "rates.loisirs.equip.water_activities.label", "prix": ""},
+					{"id": "child_armbands_under_7", "label_key": "rates.loisirs.equip.child_armbands_under_7.label", "prix": "3 €"},
+					{"id": "sup_vest_45min", "label_key": "rates.loisirs.equip.sup_vest_45min.label", "prix": "10 €"},
+					{"id": "sup_vest_1h15", "label_key": "rates.loisirs.equip.sup_vest_1h15.label", "prix": "15 €"},
+					{"id": "sup_pmr_vest_1h", "label_key": "rates.loisirs.equip.sup_pmr_vest_1h.label", "prix": "15 €"},
+					{"id": "sup_pmr_vest_2_4_1h", "label_key": "rates.loisirs.equip.sup_pmr_vest_2_4_1h.label", "prix": "25 €"},
+					{"id": "sup_boat_oars_deposit", "label_key": "rates.loisirs.equip.sup_boat_oars_deposit.label", "prix": "30 €"},
+					{"id": "pedalo_1h", "label_key": "rates.loisirs.equip.pedalo_1h.label", "prix": "25 €"},
+					{"id": "boat_1h_6max", "label_key": "rates.loisirs.equip.boat_1h_6max.label", "prix": "25 €"},
+					{"id": "amphibious_wheelchair_pmr", "label_key": "rates.loisirs.equip.amphibious_wheelchair_pmr.label", "prix": "0 €"},
+					{"id": "sports_fields", "label_key": "rates.loisirs.equip.sports_fields.label", "prix": ""},
+					{"id": "petanque_set_day", "label_key": "rates.loisirs.equip.petanque_set_day.label", "prix": "10 €"},
+					{"id": "daily_private_beach_volley_soccer", "label_key": "rates.loisirs.equip.daily_private_beach_volley_soccer.label", "prix": "100 €"},
+					{"id": "relax_nature", "label_key": "rates.loisirs.equip.relax_nature.label", "prix": ""},
+					{"id": "parasol_day", "label_key": "rates.loisirs.equip.parasol_day.label", "prix": "5 €"},
+					{"id": "deckchair_day", "label_key": "rates.loisirs.equip.deckchair_day.label", "prix": "5 €"}
+				]
+			}
+		]
+	}
+}

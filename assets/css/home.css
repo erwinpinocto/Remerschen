@@ -1,0 +1,150 @@
+/* ===== Bannière d'accueil ===== */
+.hero{
+  width:100%;
+  max-width:100%;
+  height:60vh;
+  min-height:400px;
+  margin-top:10px;
+  background-size:cover;
+  background-position:center;
+  background-repeat:no-repeat;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+  color:var(--font-inverse);
+  position:relative;
+  overflow:hidden;
+  border-radius:12px;
+  padding:10px;
+}
+/*.hero::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:rgba(0,0,0,0.3);
+  z-index:1;
+}*/
+.hero h1{
+  position:relative;
+  z-index:2;
+  font-size:2.5rem;
+  font-weight:700;
+  line-height:1.2;
+  padding:0 15px;
+  color:var(--font-inverse);
+  transform:translateY(-100px);
+}
+@media (max-width:768px){
+  .hero{
+    height:50vh;
+    min-height:300px;
+  }
+  .hero h1{
+    font-size:2rem;
+  }
+}
+@media (max-width:480px){
+  .hero{
+    height:40vh;
+    min-height:250px;
+  }
+  .hero h1{
+    font-size:1.5rem;
+  }
+}
+/* ===== Information / statuts ===== */
+#statuts{
+  width:100%;
+  margin:30px 0;
+}
+.home-info-title{
+  font-size:18px;
+  font-weight:700;
+  margin-bottom:8px;
+  color:var(--font-1);
+  text-align:center;
+}
+.home-info-text{
+  font-size:16px;
+  line-height:1.4;
+  color:var(--font-2);
+    text-align:center;
+}
+.indicateur{
+  min-width:180px;
+  text-align:center;
+}
+.statut-icon{
+  font-size:28px;
+}
+.statut-text{
+  font-weight:bold;
+  margin-top:5px;
+}
+.statut-message{
+  margin-top:5px;
+  font-size:14px;
+  color:#555;
+  white-space:pre-line;
+}
+.temperature-title{
+  margin-top:15px;
+}
+.temperature-value{
+  font-size:24px;
+  font-weight:bold;
+}
+/* ===== Surcharge locale : blocs statuts / accès rapides (home) ===== */
+.statuts-layout{
+  align-items:stretch; /* colonnes même hauteur */
+}
+.statuts-layout .bloc-left{
+  flex:1;
+  display:flex;
+  flex-direction:column;
+  justify-content:center; /* centrage vertical */
+}
+.statuts-layout .bloc-right{
+  flex:1.3; /* un peu plus grand à droite */
+  display:flex;
+  flex-direction:row; /* statut + température côte à côte */
+  align-items:center;
+  justify-content:center;
+  gap:25px;
+}
+.statuts-layout .temperature{
+  text-align:center;
+  min-width:120px;
+}
+@media (max-width:768px){
+  .statuts-layout .bloc-left,
+  .statuts-layout .bloc-right{
+    width:100%;
+  }
+}
+/* Centrer les boutons dans les colonnes */
+.statuts-layout .btn{
+  display:block;
+  width:fit-content;
+  margin:0 auto;
+}
+/* ===== Tarifs page d'accueil ===== */
+.tickets-page .bloc-2cols{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  align-items:start;
+}
+.tickets-page .bloc-left,
+.tickets-page .bloc-right{
+  flex:unset;
+}
+.tickets-page .bloc-right{
+  display:block;
+  text-align:left;
+}
+@media (max-width:600px){
+  .tickets-page .bloc-2cols{
+    grid-template-columns:1fr;
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "carpodrome": {
+        "statut": "ouvert",
+        "message": {
+            "fr": "Ouvert de mi-janvier à mi-décembre (08h00 - 18h00)\r\nLigne 2",
+            "de": "Geöffnet von Mitte Januar bis Mitte Dezember (08h00 - 18h00)\r\nLiggne2",
+            "en": "Open from mid-January to mid-December (8 AM - 6 PM)\r\nLine2"
+        }
+    },
+    "loisirs": {
+        "statut": "ouvert",
+        "message": {
+            "fr": "Ouverture du 1er mai au 15 septembre 2026 (10h00 - 18h00)",
+            "de": "Geöffnet vom 1. Mai bis zum 15. September 2026 (10h00 - 18h00)",
+            "en": "Open from May 1 to September 15, 2026 (10 AM - 6 PM)"
+        }
+    },
+    "info_du_jour": {
+        "fr": "Nouvelle version 1.0 du site web",
+        "de": "Neue Websiteversion 1.0",
+        "en": "New website version 1.0"
+    },
+    "temperature": "18 °C"
+}

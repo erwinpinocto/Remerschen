@@ -1,0 +1,1241 @@
+[
+	{
+		"id": 1,
+		"page": "carpodrome",
+		"translations": {
+			"fr": {
+			"category":"Carpodrome",
+			"question": "Existe-t-il un règlement spécifique pour la pêche au carpodrome ?",
+			"answer": "Oui. Afin de préserver les poissons et garantir une pratique respectueuse de la pêche, un règlement spécifique s’applique au carpodrome. Il est disponible sur la page dédiée au règlement du carpodrome.",
+			"keywords": ["reglement peche", "règlement pêche", "regles peche", "règles pêche", "carpodrome reglement", "peche reglement"]
+			},
+			"en": {
+			"category":"Carpodrome",
+			"question": "Is there a specific regulation for fishing at the carpodrome?",
+			"answer": "Yes. To protect the fish and ensure respectful fishing practices, a specific regulation applies at the carpodrome. It is available on the carpodrome rules page.",
+			"keywords": ["fishing rules", "carpodrome rules", "fishing regulations", "carp fishing rules"]
+			},
+			"de": {
+			"category":"Carpodrom",
+			"question": "Gibt es spezielle Regeln für das Angeln im Carpodrom?",
+			"answer": "Ja. Um die Fische zu schützen und ein respektvolles Angeln zu gewährleisten, gilt im Carpodrom eine spezielle Regelung. Diese ist auf der entsprechenden Regelseite verfügbar.",
+			"keywords": ["angelregeln", "carpodrom regeln", "angeln regeln", "karpfenangeln"]
+			}
+		}
+	},
+	{
+		"id": 2,
+		"page": "loisirs",
+		"translations": {
+			"fr": {
+				"category": "Baignade",
+				"question": "Quelles sont les règles à respecter dans la zone de baignade ?",
+				"answer": "La baignade est autorisée uniquement dans les zones prévues et pendant les périodes d’ouverture. Pour la sécurité de tous les visiteurs, certaines règles doivent être respectées. Le règlement complet est disponible sur la page Règlement de baignade.",
+				"keywords": ["baignade", "reglement baignade", "règlement baignade", "se baigner", "zone baignade", "plage", "sécurité baignade"]
+			},
+			"en": {
+				"category": "Swimming",
+				"question": "What rules must be followed in the swimming area?",
+				"answer": "Swimming is only allowed in designated areas and during opening periods. For everyone’s safety, certain rules must be followed. The full regulations are available on the swimming rules page.",
+				"keywords": ["swimming", "swimming rules", "beach rules", "safety swimming"]
+			},
+			"de": {
+				"category": "Baden",
+				"question": "Welche Regeln gelten im Badebereich?",
+				"answer": "Das Baden ist nur in den vorgesehenen Bereichen und während der Öffnungszeiten erlaubt. Aus Sicherheitsgründen müssen bestimmte Regeln eingehalten werden. Die vollständigen Regeln finden Sie auf der Seite Badeordnung.",
+				"keywords": ["baden", "badeordnung", "sicherheit baden", "baderegeln"]
+			}
+		}
+	},
+  {
+    "id": 3,
+    "page": "loisirs",
+    "translations": {
+      "fr": {
+        "category": "Zones du site",
+        "question": "Le site comporte-t-il plusieurs zones ou activités ?",
+        "answer": "Oui. Le Baggerweier est organisé en plusieurs zones dédiées aux différentes activités : baignade, détente, pêche, promenade ou activités familiales. Vous pouvez consulter le plan et la description des zones sur la page Zones du site.",
+        "keywords": ["zones", "plan du site", "carte site", "activités", "zone baignade", "zone détente", "baggerweier zones"]
+      },
+      "en": {
+        "category": "Site areas",
+        "question": "Are there different areas or activities on the site?",
+        "answer": "Yes. Baggerweier is organized into several areas dedicated to different activities: swimming, relaxation, fishing, walking and family activities. You can view the map and descriptions on the site areas page.",
+        "keywords": ["areas", "site map", "activities", "zones baggerweier"]
+      },
+      "de": {
+        "category": "Bereiche",
+        "question": "Gibt es verschiedene Bereiche oder Aktivitäten auf dem Gelände?",
+        "answer": "Ja. Der Baggerweier ist in mehrere Bereiche für verschiedene Aktivitäten unterteilt: Baden, Entspannung, Angeln, Spaziergänge und Familienaktivitäten. Einen Überblick finden Sie auf der Seite Bereiche.",
+        "keywords": ["bereiche", "lageplan", "aktivitäten", "baggerweier bereiche"]
+      }
+    }
+  },
+  {
+    "id": 4,
+    "page": "ateliers",
+    "translations": {
+      "fr": {
+        "category": "Ateliers",
+        "question": "Proposez-vous des ateliers ou activités pédagogiques ?",
+        "answer": "Oui. L’association organise différents ateliers pratiques autour de la nature, du jardinage et d’autres activités utiles au fonctionnement du site. Ces ateliers font partie d’un programme de formation et d’insertion professionnelle.",
+        "keywords": ["ateliers", "atelier nature", "atelier jardinage", "activites nature", "activités enfants", "activites pedagogiques"]
+      },
+      "en": {
+        "category": "Workshops",
+        "question": "Do you offer workshops or educational activities?",
+        "answer": "Yes. The association organizes various practical workshops focused on nature, gardening and other activities useful for the site. These workshops are part of a training and professional integration program.",
+        "keywords": ["workshops", "nature workshop", "gardening workshop", "educational activities"]
+      },
+      "de": {
+        "category": "Workshops",
+        "question": "Bieten Sie Workshops oder pädagogische Aktivitäten an?",
+        "answer": "Ja. Der Verein organisiert verschiedene praktische Workshops rund um Natur, Gartenarbeit und andere für den Standort nützliche Aktivitäten. Diese Workshops sind Teil eines Ausbildungs- und Integrationsprogramms.",
+        "keywords": ["workshops", "natur workshop", "gartenarbeit", "pädagogische aktivitäten"]
+      }
+    }
+  },
+  {
+    "id": 5,
+    "page": "events",
+    "translations": {
+      "fr": {
+        "category": "Groupes",
+        "question": "Peut-on organiser un événement ou un team building au Baggerweier ?",
+        "answer": "Oui. Le site accueille des événements pour les entreprises, associations ou groupes. Différentes activités et formules peuvent être proposées selon les besoins. Plus d’informations sont disponibles sur la page Team building.",
+        "keywords": ["team building", "evenement entreprise", "événement entreprise", "sortie groupe", "activité groupe", "evenement baggerweier"]
+      },
+      "en": {
+        "category": "Groups",
+        "question": "Can events or team building activities be organized at Baggerweier?",
+        "answer": "Yes. The site hosts events for companies, associations and groups. Various activities and packages can be offered depending on your needs. More information is available on the team building page.",
+        "keywords": ["team building", "company event", "group activity", "event baggerweier"]
+      },
+      "de": {
+        "category": "Gruppen",
+        "question": "Kann man am Baggerweier Veranstaltungen oder Teambuilding organisieren?",
+        "answer": "Ja. Das Gelände bietet Veranstaltungen für Unternehmen, Vereine und Gruppen an. Je nach Bedarf können verschiedene Aktivitäten und Angebote organisiert werden. Weitere Informationen finden Sie auf der Teambuilding-Seite.",
+        "keywords": ["teambuilding", "firmenveranstaltung", "gruppenaktivität", "event baggerweier"]
+      }
+    }
+  },
+  {
+    "id": 6,
+    "page": "home",
+    "translations": {
+      "fr": {
+        "category": "Association",
+        "question": "Qui gère le site du Baggerweier ?",
+        "answer": "Le site est géré par l’association Erliefnis Baggerweier ASBL, qui développe des activités autour de la nature, de l’inclusion et des loisirs accessibles à tous.",
+        "keywords": ["association", "erlefnis baggerweier", "gestion site", "qui gere baggerweier"]
+      },
+      "en": {
+        "category": "Association",
+        "question": "Who manages the Baggerweier site?",
+        "answer": "The site is managed by the Erliefnis Baggerweier ASBL association, which develops activities focused on nature, inclusion and leisure accessible to everyone.",
+        "keywords": ["association", "baggerweier management", "who runs baggerweier"]
+      },
+      "de": {
+        "category": "Verein",
+        "question": "Wer betreibt das Baggerweier-Gelände?",
+        "answer": "Das Gelände wird vom Verein Erliefnis Baggerweier ASBL betrieben, der Aktivitäten rund um Natur, Inklusion und Freizeit für alle entwickelt.",
+        "keywords": ["verein", "baggerweier betreiber", "wer betreibt baggerweier"]
+      }
+    }
+  },
+  {
+    "id": 7,
+    "page": "partners",
+    "translations": {
+      "fr": {
+        "category": "Partenaires",
+        "question": "Le projet Baggerweier bénéficie-t-il de partenaires ?",
+        "answer": "Oui. Le développement du site et des activités repose sur le soutien de plusieurs partenaires institutionnels et privés. La liste des partenaires est disponible sur la page Partenaires.",
+        "keywords": ["partenaires", "sponsors", "soutiens", "institutions"]
+      },
+      "en": {
+        "category": "Partners",
+        "question": "Does the Baggerweier project have partners?",
+        "answer": "Yes. The development of the site and its activities is supported by several institutional and private partners. The list of partners is available on the partners page.",
+        "keywords": ["partners", "sponsors", "support", "institutions"]
+      },
+      "de": {
+        "category": "Partner",
+        "question": "Hat das Baggerweier-Projekt Partner?",
+        "answer": "Ja. Die Entwicklung des Geländes und der Aktivitäten wird von mehreren institutionellen und privaten Partnern unterstützt. Die Liste der Partner finden Sie auf der Partner-Seite.",
+        "keywords": ["partner", "sponsoren", "unterstützung", "institutionen"]
+      }
+    }
+  },
+  {
+    "id": 8,
+    "page": "jobs",
+    "translations": {
+      "fr": {
+        "category": "Emploi",
+        "question": "Peut-on travailler au Baggerweier ?",
+        "answer": "Selon les périodes et les besoins, l’association peut proposer des offres d’emploi ou des collaborations. Les postes disponibles sont publiés sur la page Offres d’emploi. Ouvert aux étudiants, saisonniers et bénévoles.",
+        "keywords": ["emploi", "travail", "job", "recrutement"]
+      },
+      "en": {
+        "category": "Jobs",
+        "question": "Can you work at Baggerweier?",
+        "answer": "Depending on the period and needs, the association may offer job opportunities or collaborations. Available positions are published on the jobs page. Open to students, seasonal workers and volunteers.",
+        "keywords": ["jobs", "work", "recruitment", "employment"]
+      },
+      "de": {
+        "category": "Jobs",
+        "question": "Kann man am Baggerweier arbeiten?",
+        "answer": "Je nach Zeitraum und Bedarf bietet der Verein Stellenangebote oder Zusammenarbeit an. Verfügbare Stellen werden auf der Jobs-Seite veröffentlicht. Offen für Studierende, Saisonarbeiter und Freiwillige.",
+        "keywords": ["jobs", "arbeit", "stellenangebote", "rekrutierung"]
+      }
+    }
+  },
+  {
+    "id": 9,
+    "page": "home",
+    "translations": {
+      "fr": {
+        "category": "Billetterie",
+        "question": "Existe-t-il une billetterie en ligne ?",
+        "answer": "Oui. Il est possible d’acheter ses billets à l’avance afin de faciliter l’accès au site et éviter l’attente à l’entrée. La billetterie officielle est accessible depuis la page Billetterie.",
+        "keywords": ["billetterie", "billet", "ticket", "acheter billet", "billet en ligne"]
+      },
+      "en": {
+        "category": "Tickets",
+        "question": "Is there an online ticket system?",
+        "answer": "Yes. You can buy your tickets in advance to make access easier and avoid waiting at the entrance. The official ticketing system is available on the ticket page.",
+        "keywords": ["tickets", "ticketing", "buy ticket", "online ticket"]
+      },
+      "de": {
+        "category": "Tickets",
+        "question": "Gibt es ein Online-Ticketsystem?",
+        "answer": "Ja. Tickets können im Voraus gekauft werden, um den Zugang zu erleichtern und Wartezeiten zu vermeiden. Das offizielle Ticketsystem finden Sie auf der Ticket-Seite.",
+        "keywords": ["tickets", "ticketverkauf", "ticket kaufen", "online ticket"]
+      }
+    }
+  },
+  {
+    "id": 10,
+    "page": "loisirs",
+    "translations": {
+      "fr": {
+        "category": "Baignade",
+        "question": "La baignade est-elle surveillée au Baggerweier ?",
+        "answer": "Oui. La baignade est surveillée tous les jours de 10h00 à 18h00 au bassin pour enfants.",
+        "keywords": ["baignade surveillée", "maitre nageur", "sécurité baignade"]
+      },
+      "en": {
+        "category": "Swimming",
+        "question": "Is swimming supervised at Baggerweier?",
+        "answer": "Yes. Swimming is supervised every day from 10:00 to 18:00 in the kids pool.",
+        "keywords": ["supervised swimming", "lifeguard", "swimming safety"]
+      },
+      "de": {
+        "category": "Baden",
+        "question": "Ist das Baden am Baggerweier überwacht?",
+        "answer": "Ja. Das Baden wird täglich von 10:00 bis 18:00 Uhr am Kinderbecken überwacht.",
+        "keywords": ["baden überwacht", "rettungsschwimmer", "badesicherheit"]
+      }
+    }
+  },{
+  "id": 11,
+  "page": "loisirs",
+  "url": "https://baggerweier.lu/baggerweier.php",
+  "translations": {
+    "fr": {
+      "category": "Enfants",
+      "question": "Les enfants peuvent-ils se baigner seuls ?",
+      "answer": "Les enfants de moins de 10 ans doivent être accompagnés par un adulte. Les enfants de moins de 8 ans doivent porter des brassards.",
+      "keywords": ["enfants baignade", "brassards", "sécurité enfants"]
+    },
+    "en": {
+      "category": "Children",
+      "question": "Can children swim on their own?",
+      "answer": "Children under 10 must be accompanied by an adult. Children under 8 must wear armbands.",
+      "keywords": ["children swimming", "armbands", "child safety"]
+    },
+    "de": {
+      "category": "Kinder",
+      "question": "Dürfen Kinder alleine schwimmen?",
+      "answer": "Kinder unter 10 Jahren müssen von einem Erwachsenen begleitet werden. Kinder unter 8 Jahren müssen Schwimmflügel tragen.",
+      "keywords": ["kinder baden", "schwimmflügel", "kindersicherheit"]
+    }
+  }
+},
+{
+  "id": 12,
+  "page": "loisirs",
+  "url": "https://baggerweier.lu/baggerweier.php",
+  "translations": {
+    "fr": {
+      "category": "Baignade",
+      "question": "Peut-on se baigner partout dans le lac ?",
+      "answer": "La baignade est autorisée uniquement dans les zones prévues à cet effet pendant les horaires de surveillance.",
+      "keywords": ["se baigner lac", "zones baignade"]
+    },
+    "en": {
+      "category": "Swimming",
+      "question": "Can you swim anywhere in the lake?",
+      "answer": "Swimming is only allowed in designated areas during supervised hours.",
+      "keywords": ["lake swimming", "swimming zones"]
+    },
+    "de": {
+      "category": "Baden",
+      "question": "Darf man überall im See baden?",
+      "answer": "Das Baden ist nur in den dafür vorgesehenen Bereichen während der Überwachungszeiten erlaubt.",
+      "keywords": ["baden see", "badezonen"]
+    }
+  }
+},
+{
+  "id": 13,
+  "page": "loisirs",
+  "url": "https://baggerweier.lu/baggerweier.php",
+  "translations": {
+    "fr": {
+      "category": "Sécurité",
+      "question": "Faut-il utiliser une bouée de sécurité dans le lac ?",
+      "answer": "Oui. L’utilisation d’une bouée de sécurité est obligatoire pour certaines activités dans le lac.",
+      "keywords": ["bouée", "bouee securite", "sécurité lac"]
+    },
+    "en": {
+      "category": "Safety",
+      "question": "Do you need to use a safety buoy in the lake?",
+      "answer": "Yes. The use of a safety buoy is mandatory for certain activities in the lake.",
+      "keywords": ["buoy", "safety buoy", "lake safety"]
+    },
+    "de": {
+      "category": "Sicherheit",
+      "question": "Muss man im See eine Sicherheitsboje benutzen?",
+      "answer": "Ja. Für bestimmte Aktivitäten im See ist die Verwendung einer Sicherheitsboje verpflichtend.",
+      "keywords": ["boje", "sicherheitsboje", "sicherheit see"]
+    }
+  }
+},
+{
+  "id": 14,
+  "page": "loisirs",
+  "url": "https://baggerweier.lu/baggerweier.php",
+  "translations": {
+    "fr": {
+      "category": "Chiens",
+      "question": "Les chiens sont-ils autorisés sur tout le site ?",
+      "answer": "Non. Les chiens sont admis uniquement dans la plage canine désignée (Zone 6) et sur la terrasse / bar (Zone 2).",
+      "keywords": ["chien", "chiens", "animaux", "plage canine"]
+    },
+    "en": {
+      "category": "Dogs",
+      "question": "Are dogs allowed everywhere on the site?",
+      "answer": "No. Dogs are only allowed in the designated dog beach area (Zone 6) and on the terrace/bar (Zone 2).",
+      "keywords": ["dogs", "pets", "dog beach"]
+    },
+    "de": {
+      "category": "Hunde",
+      "question": "Sind Hunde auf dem gesamten Gelände erlaubt?",
+      "answer": "Nein. Hunde sind nur im ausgewiesenen Hundestrand (Zone 6) sowie auf der Terrasse/Bar (Zone 2) erlaubt.",
+      "keywords": ["hunde", "haustiere", "hundestrand"]
+    }
+  }
+},
+{
+  "id": 15,
+  "page": "loisirs",
+  "url": "https://baggerweier.lu/baggerweier.php",
+  "translations": {
+    "fr": {
+      "category": "Règlement",
+      "question": "Peut-on faire du feu ou un barbecue sur le site ?",
+      "answer": "Les feux à ciel ouvert sont interdits en dehors des zones de barbecue prévues à cet effet.",
+      "keywords": ["barbecue", "bbq", "feu"]
+    },
+    "en": {
+      "category": "Rules",
+      "question": "Is it allowed to make a fire or barbecue on site?",
+      "answer": "Open fires are prohibited outside the designated barbecue areas.",
+      "keywords": ["barbecue", "bbq", "fire rules"]
+    },
+    "de": {
+      "category": "Regeln",
+      "question": "Darf man auf dem Gelände Feuer machen oder grillen?",
+      "answer": "Offene Feuer sind außerhalb der vorgesehenen Grillbereiche verboten.",
+      "keywords": ["grillen", "feuer", "regeln"]
+    }
+  }
+},
+{
+  "id": 16,
+  "page": "loisirs",
+  "url": "https://baggerweier.lu/baggerweier.php",
+  "translations": {
+    "fr": {
+      "category": "Règlement",
+      "question": "Peut-on venir à vélo au Baggerweier ?",
+      "answer": "Une piste cyclable mène jusqu'au site, mais les vélos ne sont pas autorisés sur le site, selon le règlement intérieur.",
+      "keywords": ["velo", "vélo", "bike"]
+    },
+    "en": {
+      "category": "Rules",
+      "question": "Can you come to Baggerweier by bike?",
+      "answer": "A bike path leads to the site, but bicycles are not allowed inside the site according to the internal regulations.",
+      "keywords": ["bike", "bicycle", "cycling"]
+    },
+    "de": {
+      "category": "Regeln",
+      "question": "Kann man mit dem Fahrrad zum Baggerweier kommen?",
+      "answer": "Ein Radweg führt zum Gelände, aber Fahrräder sind laut Hausordnung auf dem Gelände nicht erlaubt.",
+      "keywords": ["fahrrad", "radweg", "regeln"]
+    }
+  }
+},
+{
+  "id": 17,
+  "page": "loisirs",
+  "url": "https://baggerweier.lu/baggerweier.php",
+  "translations": {
+    "fr": {
+      "category": "Règlement",
+      "question": "Peut-on passer la nuit ou camper au Baggerweier ?",
+      "answer": "Non. Le camping et les séjours de nuit sont interdits sur l’ensemble du site.",
+      "keywords": ["camping", "camper", "tente", "nuit"]
+    },
+    "en": {
+      "category": "Rules",
+      "question": "Can you stay overnight or camp at Baggerweier?",
+      "answer": "No. Camping and overnight stays are prohibited throughout the site.",
+      "keywords": ["camping", "overnight", "stay night"]
+    },
+    "de": {
+      "category": "Regeln",
+      "question": "Darf man am Baggerweier übernachten oder campen?",
+      "answer": "Nein. Camping und Übernachtungen sind auf dem gesamten Gelände verboten.",
+      "keywords": ["camping", "übernachten", "zelt"]
+    }
+  }
+},
+{
+  "id": 18,
+  "page": "loisirs",
+  "url": "https://baggerweier.lu/baggerweier.php",
+  "translations": {
+    "fr": {
+      "category": "Règlement",
+      "question": "Peut-on utiliser un bateau à moteur sur le lac ?",
+      "answer": "Non. Les bateaux à moteur sont interdits, sauf pour les services de sauvetage et d’entretien.",
+      "keywords": ["bateau moteur", "navigation", "boat"]
+    },
+    "en": {
+      "category": "Rules",
+      "question": "Are motorboats allowed on the lake?",
+      "answer": "No. Motorboats are prohibited, except for rescue and maintenance services.",
+      "keywords": ["motorboat", "boat", "navigation"]
+    },
+    "de": {
+      "category": "Regeln",
+      "question": "Sind Motorboote auf dem See erlaubt?",
+      "answer": "Nein. Motorboote sind verboten, außer für Rettungs- und Wartungsdienste.",
+      "keywords": ["motorboot", "boot", "navigation"]
+    }
+  }
+},
+{
+  "id": 19,
+  "page": "loisirs",
+  "url": "https://www.baggerweier.lu/",
+  "translations": {
+    "fr": {
+      "category": "Responsabilité",
+      "question": "Que faire en cas de perte ou de vol d’objets personnels ?",
+      "answer": "Chaque visiteur est responsable de ses effets personnels. L’exploitant décline toute responsabilité en cas de perte ou de vol.",
+      "keywords": ["vol", "objets perdus", "perte"]
+    },
+    "en": {
+      "category": "Liability",
+      "question": "What should you do in case of lost or stolen personal belongings?",
+      "answer": "Each visitor is responsible for their personal belongings. The operator declines all responsibility in case of loss or theft.",
+      "keywords": ["loss", "theft", "lost items"]
+    },
+    "de": {
+      "category": "Haftung",
+      "question": "Was tun bei Verlust oder Diebstahl persönlicher Gegenstände?",
+      "answer": "Jeder Besucher ist für seine persönlichen Gegenstände selbst verantwortlich. Der Betreiber übernimmt keine Haftung bei Verlust oder Diebstahl.",
+      "keywords": ["verlust", "diebstahl", "gegenstände"]
+    }
+  }
+},
+{
+  "id": 20,
+  "page": "carpodrome",
+  "url": "https://www.baggerweier.lu/carpodrom.php",
+  "translations": {
+    "fr": {
+      "category": "Carpodrome",
+      "question": "Faut-il un permis pour pêcher au carpodrome ?",
+      "answer": "Oui. La pêche est soumise à la possession d’un permis spécifique.",
+      "keywords": ["permis peche", "autorisation peche"]
+    },
+    "en": {
+      "category": "Carpodrome",
+      "question": "Do you need a permit to fish at the carpodrome?",
+      "answer": "Yes. Fishing requires a specific permit.",
+      "keywords": ["fishing permit", "license fishing"]
+    },
+    "de": {
+      "category": "Carpodrom",
+      "question": "Braucht man eine Genehmigung zum Angeln im Carpodrom?",
+      "answer": "Ja. Das Angeln ist nur mit einer entsprechenden Genehmigung erlaubt.",
+      "keywords": ["angelschein", "genehmigung angeln"]
+    }
+  }
+},
+{
+  "id": 21,
+  "page": "carpodrome",
+  "url": "https://www.baggerweier.lu/carpodrom.php",
+  "translations": {
+    "fr": {
+      "category": "Carpodrome",
+      "question": "La pêche au carpodrome est-elle en no-kill ?",
+      "answer": "Oui. Tous les poissons capturés doivent être remis à l’eau.",
+      "keywords": ["no kill", "catch and release"]
+    },
+    "en": {
+      "category": "Carpodrome",
+      "question": "Is fishing at the carpodrome catch-and-release?",
+      "answer": "Yes. All caught fish must be released back into the water.",
+      "keywords": ["catch and release", "no kill"]
+    },
+    "de": {
+      "category": "Carpodrom",
+      "question": "Ist das Angeln im Carpodrom nach dem Catch-and-Release-Prinzip?",
+      "answer": "Ja. Alle gefangenen Fische müssen wieder ins Wasser zurückgesetzt werden.",
+      "keywords": ["catch and release", "no kill"]
+    }
+  }
+},
+{
+  "id": 22,
+  "page": "carpodrome",
+  "url": "https://www.baggerweier.lu/carpodrom.php",
+  "translations": {
+    "fr": {
+      "category": "Carpodrome",
+      "question": "Combien de cannes peut-on utiliser pour pêcher ?",
+      "answer": "La pêche est autorisée avec une seule canne.",
+      "keywords": ["nombre cannes", "canne peche"]
+    },
+    "en": {
+      "category": "Carpodrome",
+      "question": "How many rods can you use for fishing?",
+      "answer": "Fishing is allowed with only one rod.",
+      "keywords": ["number of rods", "fishing rod"]
+    },
+    "de": {
+      "category": "Carpodrom",
+      "question": "Wie viele Ruten darf man beim Angeln benutzen?",
+      "answer": "Das Angeln ist nur mit einer Rute erlaubt.",
+      "keywords": ["anzahl ruten", "angelrute"]
+    }
+  }
+},
+{
+  "id": 23,
+  "page": "carpodrome",
+  "url": "https://www.baggerweier.lu/carpodrom.php",
+  "translations": {
+    "fr": {
+      "category": "Carpodrome",
+      "question": "Quel type d’hameçon est autorisé ?",
+      "answer": "Un hameçon simple sans ardillon est obligatoire.",
+      "keywords": ["hameçon", "ardillon"]
+    },
+    "en": {
+      "category": "Carpodrome",
+      "question": "What type of hook is allowed?",
+      "answer": "A single barbless hook is mandatory.",
+      "keywords": ["hook", "barbless hook"]
+    },
+    "de": {
+      "category": "Carpodrom",
+      "question": "Welche Art von Haken ist erlaubt?",
+      "answer": "Ein einfacher Haken ohne Widerhaken ist vorgeschrieben.",
+      "keywords": ["haken", "widerhaken"]
+    }
+  }
+},
+{
+  "id": 24,
+  "page": "carpodrome",
+  "url": "https://www.baggerweier.lu/carpodrom.php",
+  "translations": {
+    "fr": {
+      "category": "Carpodrome",
+      "question": "Peut-on utiliser du pain comme appât ?",
+      "answer": "Non. La pêche au pain est interdite.",
+      "keywords": ["pain appat", "appats interdits"]
+    },
+    "en": {
+      "category": "Carpodrome",
+      "question": "Can bread be used as bait?",
+      "answer": "No. Fishing with bread is prohibited.",
+      "keywords": ["bread bait", "forbidden bait"]
+    },
+    "de": {
+      "category": "Carpodrom",
+      "question": "Darf man Brot als Köder verwenden?",
+      "answer": "Nein. Das Angeln mit Brot ist verboten.",
+      "keywords": ["brot köder", "verbotene köder"]
+    }
+  }
+},
+{
+  "id": 25,
+  "page": "carpodrome",
+  "url": "https://www.baggerweier.lu/carpodrom.php",
+  "translations": {
+    "fr": {
+      "category": "Carpodrome",
+      "question": "Quels appâts sont autorisés pour la pêche ?",
+      "answer": "Les appâts autorisés comprennent notamment les pellets, céréales cuites, asticots, vers de terre et pâte.",
+      "keywords": ["appats autorises", "pellets", "asticots"]
+    },
+    "en": {
+      "category": "Carpodrome",
+      "question": "Which baits are allowed for fishing?",
+      "answer": "Allowed baits include pellets, cooked cereals, maggots, earthworms and dough.",
+      "keywords": ["allowed bait", "pellets", "maggots"]
+    },
+    "de": {
+      "category": "Carpodrom",
+      "question": "Welche Köder sind erlaubt?",
+      "answer": "Erlaubte Köder sind unter anderem Pellets, gekochte Getreide, Maden, Regenwürmer und Teig.",
+      "keywords": ["erlaubte köder", "pellets", "maden"]
+    }
+  }
+},
+{
+  "id": 26,
+  "page": "carpodrome",
+  "url": "https://www.baggerweier.lu/carpodrom.php",
+  "translations": {
+    "fr": {
+      "category": "Carpodrome",
+      "question": "Peut-on utiliser des lignes tressées ?",
+      "answer": "Non. Les lignes tressées sont interdites.",
+      "keywords": ["ligne tressée", "tresse peche"]
+    },
+    "en": {
+      "category": "Carpodrome",
+      "question": "Can braided lines be used?",
+      "answer": "No. Braided lines are prohibited.",
+      "keywords": ["braided line", "fishing line"]
+    },
+    "de": {
+      "category": "Carpodrom",
+      "question": "Darf man geflochtene Schnüre verwenden?",
+      "answer": "Nein. Geflochtene Schnüre sind verboten.",
+      "keywords": ["geflochtene schnur", "angelschnur"]
+    }
+  }
+},
+{
+  "id": 29,
+  "page": "carpodrome",
+  "url": "https://www.baggerweier.lu/carpodrom.php",
+  "translations": {
+    "fr": {
+      "category": "Carpodrome",
+      "question": "Peut-on réserver un emplacement de pêche à l’avance ?",
+      "answer": "Non. Il est interdit de réserver un poste en déposant des objets.",
+      "keywords": ["poste peche", "reserver place"]
+    },
+    "en": {
+      "category": "Carpodrome",
+      "question": "Can you reserve a fishing spot in advance?",
+      "answer": "No. Reserving a spot by placing objects is not allowed.",
+      "keywords": ["fishing spot", "reserve place"]
+    },
+    "de": {
+      "category": "Carpodrom",
+      "question": "Kann man einen Angelplatz im Voraus reservieren?",
+      "answer": "Nein. Es ist nicht erlaubt, einen Platz durch Ablegen von Gegenständen zu reservieren.",
+      "keywords": ["angelplatz", "platz reservieren"]
+    }
+  }
+},
+{
+  "id": 30,
+  "page": "carpodrome",
+  "url": "https://www.baggerweier.lu/carpodrom.php",
+  "translations": {
+    "fr": {
+      "category": "Carpodrome",
+      "question": "Peut-on laisser sa canne sans surveillance ?",
+      "answer": "Non. La canne doit rester sous surveillance constante.",
+      "keywords": ["surveillance canne"]
+    },
+    "en": {
+      "category": "Carpodrome",
+      "question": "Can you leave your rod unattended?",
+      "answer": "No. The rod must remain under constant supervision.",
+      "keywords": ["rod supervision", "fishing rod"]
+    },
+    "de": {
+      "category": "Carpodrom",
+      "question": "Darf man seine Angel unbeaufsichtigt lassen?",
+      "answer": "Nein. Die Angel muss ständig beaufsichtigt werden.",
+      "keywords": ["angel beaufsichtigung"]
+    }
+  }
+},
+{
+  "id": 21,
+  "page": "carpodrome",
+  "url": "https://www.baggerweier.lu/carpodrom.php",
+  "translations": {
+    "fr": {
+      "category": "Carpodrome",
+      "question": "La pêche au carpodrome est-elle en no-kill ?",
+      "answer": "Oui. Tous les poissons capturés doivent être remis à l’eau.",
+      "keywords": ["no kill", "catch and release"]
+    },
+    "en": {
+      "category": "Carpodrome",
+      "question": "Is fishing at the carpodrome catch-and-release?",
+      "answer": "Yes. All caught fish must be released back into the water.",
+      "keywords": ["catch and release", "no kill"]
+    },
+    "de": {
+      "category": "Carpodrom",
+      "question": "Ist das Angeln im Carpodrom nach dem Catch-and-Release-Prinzip?",
+      "answer": "Ja. Alle gefangenen Fische müssen wieder ins Wasser zurückgesetzt werden.",
+      "keywords": ["catch and release", "no kill"]
+    }
+  }
+},
+{
+  "id": 22,
+  "page": "carpodrome",
+  "url": "https://www.baggerweier.lu/carpodrom.php",
+  "translations": {
+    "fr": {
+      "category": "Carpodrome",
+      "question": "Combien de cannes peut-on utiliser pour pêcher ?",
+      "answer": "La pêche est autorisée avec une seule canne.",
+      "keywords": ["nombre cannes", "canne peche"]
+    },
+    "en": {
+      "category": "Carpodrome",
+      "question": "How many rods can you use for fishing?",
+      "answer": "Fishing is allowed with only one rod.",
+      "keywords": ["number of rods", "fishing rod"]
+    },
+    "de": {
+      "category": "Carpodrom",
+      "question": "Wie viele Ruten darf man beim Angeln benutzen?",
+      "answer": "Das Angeln ist nur mit einer Rute erlaubt.",
+      "keywords": ["anzahl ruten", "angelrute"]
+    }
+  }
+},
+{
+  "id": 23,
+  "page": "carpodrome",
+  "url": "https://www.baggerweier.lu/carpodrom.php",
+  "translations": {
+    "fr": {
+      "category": "Carpodrome",
+      "question": "Quel type d’hameçon est autorisé ?",
+      "answer": "Un hameçon simple sans ardillon est obligatoire.",
+      "keywords": ["hameçon", "ardillon"]
+    },
+    "en": {
+      "category": "Carpodrome",
+      "question": "What type of hook is allowed?",
+      "answer": "A single barbless hook is mandatory.",
+      "keywords": ["hook", "barbless hook"]
+    },
+    "de": {
+      "category": "Carpodrom",
+      "question": "Welche Art von Haken ist erlaubt?",
+      "answer": "Ein einfacher Haken ohne Widerhaken ist vorgeschrieben.",
+      "keywords": ["haken", "widerhaken"]
+    }
+  }
+},
+{
+  "id": 24,
+  "page": "carpodrome",
+  "url": "https://www.baggerweier.lu/carpodrom.php",
+  "translations": {
+    "fr": {
+      "category": "Carpodrome",
+      "question": "Peut-on utiliser du pain comme appât ?",
+      "answer": "Non. La pêche au pain est interdite.",
+      "keywords": ["pain appat", "appats interdits"]
+    },
+    "en": {
+      "category": "Carpodrome",
+      "question": "Can bread be used as bait?",
+      "answer": "No. Fishing with bread is prohibited.",
+      "keywords": ["bread bait", "forbidden bait"]
+    },
+    "de": {
+      "category": "Carpodrom",
+      "question": "Darf man Brot als Köder verwenden?",
+      "answer": "Nein. Das Angeln mit Brot ist verboten.",
+      "keywords": ["brot köder", "verbotene köder"]
+    }
+  }
+},
+{
+  "id": 25,
+  "page": "carpodrome",
+  "url": "https://www.baggerweier.lu/carpodrom.php",
+  "translations": {
+    "fr": {
+      "category": "Carpodrome",
+      "question": "Quels appâts sont autorisés pour la pêche ?",
+      "answer": "Les appâts autorisés comprennent notamment les pellets, céréales cuites, asticots, vers de terre et pâte.",
+      "keywords": ["appats autorises", "pellets", "asticots"]
+    },
+    "en": {
+      "category": "Carpodrome",
+      "question": "Which baits are allowed for fishing?",
+      "answer": "Allowed baits include pellets, cooked cereals, maggots, earthworms and dough.",
+      "keywords": ["allowed bait", "pellets", "maggots"]
+    },
+    "de": {
+      "category": "Carpodrom",
+      "question": "Welche Köder sind erlaubt?",
+      "answer": "Erlaubte Köder sind unter anderem Pellets, gekochte Getreide, Maden, Regenwürmer und Teig.",
+      "keywords": ["erlaubte köder", "pellets", "maden"]
+    }
+  }
+},
+{
+  "id": 26,
+  "page": "carpodrome",
+  "url": "https://www.baggerweier.lu/carpodrom.php",
+  "translations": {
+    "fr": {
+      "category": "Carpodrome",
+      "question": "Peut-on utiliser des lignes tressées ?",
+      "answer": "Non. Les lignes tressées sont interdites.",
+      "keywords": ["ligne tressée", "tresse peche"]
+    },
+    "en": {
+      "category": "Carpodrome",
+      "question": "Can braided lines be used?",
+      "answer": "No. Braided lines are prohibited.",
+      "keywords": ["braided line", "fishing line"]
+    },
+    "de": {
+      "category": "Carpodrom",
+      "question": "Darf man geflochtene Schnüre verwenden?",
+      "answer": "Nein. Geflochtene Schnüre sind verboten.",
+      "keywords": ["geflochtene schnur", "angelschnur"]
+    }
+  }
+},
+{
+  "id": 29,
+  "page": "carpodrome",
+  "url": "https://www.baggerweier.lu/carpodrom.php",
+  "translations": {
+    "fr": {
+      "category": "Carpodrome",
+      "question": "Peut-on réserver un emplacement de pêche à l’avance ?",
+      "answer": "Non. Il est interdit de réserver un poste en déposant des objets.",
+      "keywords": ["poste peche", "reserver place"]
+    },
+    "en": {
+      "category": "Carpodrome",
+      "question": "Can you reserve a fishing spot in advance?",
+      "answer": "No. Reserving a spot by placing objects is not allowed.",
+      "keywords": ["fishing spot", "reserve place"]
+    },
+    "de": {
+      "category": "Carpodrom",
+      "question": "Kann man einen Angelplatz im Voraus reservieren?",
+      "answer": "Nein. Es ist nicht erlaubt, einen Platz durch Ablegen von Gegenständen zu reservieren.",
+      "keywords": ["angelplatz", "platz reservieren"]
+    }
+  }
+},
+{
+  "id": 30,
+  "page": "carpodrome",
+  "url": "https://www.baggerweier.lu/carpodrom.php",
+  "translations": {
+    "fr": {
+      "category": "Carpodrome",
+      "question": "Peut-on laisser sa canne sans surveillance ?",
+      "answer": "Non. La canne doit rester sous surveillance constante.",
+      "keywords": ["surveillance canne"]
+    },
+    "en": {
+      "category": "Carpodrome",
+      "question": "Can you leave your rod unattended?",
+      "answer": "No. The rod must remain under constant supervision.",
+      "keywords": ["rod supervision", "fishing rod"]
+    },
+    "de": {
+      "category": "Carpodrom",
+      "question": "Darf man seine Angel unbeaufsichtigt lassen?",
+      "answer": "Nein. Die Angel muss ständig beaufsichtigt werden.",
+      "keywords": ["angel beaufsichtigung"]
+    }
+  }
+},
+{
+  "id": 31,
+  "page": "workshops",
+  "url": "https://www.baggerweier.lu/baggerweierasbl.php",
+  "translations": {
+    "fr": {
+      "category": "Ateliers",
+      "question": "Les ateliers du Baggerweier sont-ils ouverts à tout le monde ?",
+      "answer": "Les ateliers s’inscrivent dans un projet d’insertion professionnelle et sont destinés aux personnes accompagnées dans un parcours de formation, notamment : personnes en situation de handicap, personnes orientées vers un atelier protégé.",
+      "keywords": ["ateliers", "formation", "insertion"]
+    },
+    "en": {
+      "category": "Workshops",
+      "question": "Are Baggerweier workshops open to everyone?",
+      "answer": "The workshops are part of a professional integration program and are intended for participants enrolled in a training pathway, in particular people with disabilities and individuals orientated towards a professional inclusion workshop.",
+      "keywords": ["workshops", "training", "integration"]
+    },
+    "de": {
+      "category": "Workshops",
+      "question": "Sind die Workshops am Baggerweier für alle zugänglich?",
+      "answer": "Die Workshops sind Teil eines beruflichen Integrationsprogramms und richten sich an Personen in einem Ausbildungsprozess, insbesondere Menschen mit Behinderung sowie Personen, die an eine geschützte Werkstatt vermittelt werden.",
+      "keywords": ["workshops", "ausbildung", "integration"]
+    }
+  }
+},
+{
+  "id": 32,
+  "page": "workshops",
+  "url": "https://www.baggerweier.lu/baggerweierasbl.php",
+  "translations": {
+    "fr": {
+      "category": "Ateliers",
+      "question": "Quel est l’objectif des ateliers proposés ?",
+      "answer": "Développer des compétences professionnelles concrètes dans un environnement réel de travail.",
+      "keywords": ["objectifs ateliers", "insertion professionnelle"]
+    },
+    "en": {
+      "category": "Workshops",
+      "question": "What is the objective of the workshops?",
+      "answer": "To develop practical professional skills in a real working environment.",
+      "keywords": ["workshop objectives", "professional skills"]
+    },
+    "de": {
+      "category": "Workshops",
+      "question": "Was ist das Ziel der angebotenen Workshops?",
+      "answer": "Die Entwicklung konkreter beruflicher Fähigkeiten in einem realen Arbeitsumfeld.",
+      "keywords": ["workshop ziele", "berufliche fähigkeiten"]
+    }
+  }
+},
+{
+  "id": 33,
+  "page": "workshops",
+  "url": "https://www.baggerweier.lu/baggerweierasbl.php",
+  "translations": {
+    "fr": {
+      "category": "Ateliers",
+      "question": "Quelles formations sont proposées au Baggerweier ?",
+      "answer": "Des formations pratiques dans différents domaines comme l’aménagement paysager, l’événementiel ou la surveillance aquatique.",
+      "keywords": ["formations", "formation baggerweier"]
+    },
+    "en": {
+      "category": "Workshops",
+      "question": "What training programs are offered at Baggerweier?",
+      "answer": "Practical training in various fields such as landscaping, event organization and water supervision.",
+      "keywords": ["training", "baggerweier training"]
+    },
+    "de": {
+      "category": "Workshops",
+      "question": "Welche Ausbildungen werden am Baggerweier angeboten?",
+      "answer": "Praktische Ausbildungen in verschiedenen Bereichen wie Landschaftsgestaltung, Veranstaltungsorganisation oder Wasseraufsicht.",
+      "keywords": ["ausbildung", "baggerweier ausbildung"]
+    }
+  }
+},
+{
+  "id": 34,
+  "page": "workshops",
+  "url": "https://www.baggerweier.lu/baggerweierasbl.php",
+  "translations": {
+    "fr": {
+      "category": "Ateliers",
+      "question": "Quels types d’activités sont réalisés dans les ateliers ?",
+      "answer": "Jardinage, menuiserie, multiservice, organisation d’événements et entretien du site.",
+      "keywords": ["activites ateliers", "jardinage", "menuiserie"]
+    },
+    "en": {
+      "category": "Workshops",
+      "question": "What types of activities are carried out in the workshops?",
+      "answer": "Gardening, carpentry, multi-service tasks, event organization and site maintenance.",
+      "keywords": ["activities", "gardening", "carpentry"]
+    },
+    "de": {
+      "category": "Workshops",
+      "question": "Welche Aktivitäten werden in den Workshops durchgeführt?",
+      "answer": "Gartenarbeit, Tischlerei, Multiservice-Arbeiten, Veranstaltungsorganisation und Pflege des Geländes.",
+      "keywords": ["aktivitäten", "gartenarbeit", "tischlerei"]
+    }
+  }
+},
+{
+  "id": 35,
+  "page": "workshops",
+  "url": "https://www.baggerweier.lu/baggerweierasbl.php",
+  "translations": {
+    "fr": {
+      "category": "Ateliers",
+      "question": "Quelle est la méthode pédagogique utilisée dans les ateliers ?",
+      "answer": "Une approche pratique : montrer, faire, imiter et répéter jusqu’à la maîtrise.",
+      "keywords": ["pedagogie", "apprentissage pratique"]
+    },
+    "en": {
+      "category": "Workshops",
+      "question": "What teaching method is used in the workshops?",
+      "answer": "A practical approach: demonstrate, practice, imitate and repeat until mastery.",
+      "keywords": ["teaching method", "practical learning"]
+    },
+    "de": {
+      "category": "Workshops",
+      "question": "Welche pädagogische Methode wird in den Workshops verwendet?",
+      "answer": "Ein praktischer Ansatz: zeigen, machen, nachahmen und wiederholen bis zur Beherrschung.",
+      "keywords": ["pädagogik", "praktisches lernen"]
+    }
+  }
+},
+{
+  "id": 36,
+  "page": "workshops",
+  "url": "https://www.baggerweier.lu/baggerweierasbl.php",
+  "translations": {
+    "fr": {
+      "category": "Ateliers",
+      "question": "Les ateliers sont-ils accessibles aux personnes en situation de handicap ?",
+      "answer": "Oui. Le projet accorde une attention particulière à l’inclusion des personnes porteuses de handicap.",
+      "keywords": ["handicap", "inclusion", "accessibilite"]
+    },
+    "en": {
+      "category": "Workshops",
+      "question": "Are the workshops accessible to people with disabilities?",
+      "answer": "Yes. The project places particular emphasis on inclusion of people with disabilities.",
+      "keywords": ["disability", "inclusion", "accessibility"]
+    },
+    "de": {
+      "category": "Workshops",
+      "question": "Sind die Workshops für Menschen mit Behinderung zugänglich?",
+      "answer": "Ja. Das Projekt legt besonderen Wert auf die Inklusion von Menschen mit Behinderung.",
+      "keywords": ["behinderung", "inklusion", "barrierefreiheit"]
+    }
+  }
+},
+{
+  "id": 37,
+  "page": "workshops",
+  "url": "https://www.baggerweier.lu/baggerweierasbl.php",
+  "translations": {
+    "fr": {
+      "category": "Ateliers",
+      "question": "Quels résultats permettent d’obtenir les ateliers ?",
+      "answer": "Ils favorisent l’autonomie et la transition vers l’emploi.",
+      "keywords": ["resultats ateliers", "competences"]
+    },
+    "en": {
+      "category": "Workshops",
+      "question": "What results do the workshops aim to achieve?",
+      "answer": "They promote autonomy and support the transition into employment.",
+      "keywords": ["workshop results", "skills"]
+    },
+    "de": {
+      "category": "Workshops",
+      "question": "Welche Ergebnisse sollen durch die Workshops erreicht werden?",
+      "answer": "Sie fördern die Selbstständigkeit und den Übergang in den Arbeitsmarkt.",
+      "keywords": ["workshop ergebnisse", "kompetenzen"]
+    }
+  }
+},
+{
+  "id": 38,
+  "page": "events",
+  "url": "https://www.baggerweier.lu/baggerweier.php",
+  "translations": {
+    "fr": {
+      "category": "Événements",
+      "question": "Peut-on organiser une réception privée au Baggerweier ?",
+      "answer": "Oui. Le site peut accueillir anniversaires, fêtes ou événements privés.",
+      "keywords": ["evenement prive", "reception", "anniversaire"]
+    },
+    "en": {
+      "category": "Events",
+      "question": "Can private events be organized at Baggerweier?",
+      "answer": "Yes. The site can host birthdays, parties and private events.",
+      "keywords": ["private event", "party", "birthday"]
+    },
+    "de": {
+      "category": "Veranstaltungen",
+      "question": "Kann man private Veranstaltungen am Baggerweier organisieren?",
+      "answer": "Ja. Das Gelände eignet sich für Geburtstage, Feiern und private Veranstaltungen.",
+      "keywords": ["private veranstaltung", "feier", "geburtstag"]
+    }
+  }
+},
+{
+  "id": 39,
+  "page": "events",
+  "url": "https://www.baggerweier.lu/baggerweier.php",
+  "translations": {
+    "fr": {
+      "category": "Événements",
+      "question": "Comment réserver une réception ou un événement ?",
+      "answer": "Il suffit de contacter l’équipe d’Erliefnis Baggerweier pour discuter des disponibilités.",
+      "keywords": ["reservation evenement", "contact evenement"]
+    },
+    "en": {
+      "category": "Events",
+      "question": "How can you book a reception or event?",
+      "answer": "Simply contact the Erliefnis Baggerweier team to discuss availability.",
+      "keywords": ["event booking", "contact event"]
+    },
+    "de": {
+      "category": "Veranstaltungen",
+      "question": "Wie kann man eine Veranstaltung oder Feier buchen?",
+      "answer": "Kontaktieren Sie einfach das Team von Erliefnis Baggerweier, um die Verfügbarkeit zu besprechen.",
+      "keywords": ["veranstaltung buchen", "kontakt"]
+    }
+  }
+},
+{
+  "id": 40,
+  "page": "events",
+  "url": "https://www.baggerweier.lu/baggerweier.php",
+  "translations": {
+    "fr": {
+      "category": "Séminaires",
+      "question": "Peut-on organiser un séminaire ou une journée d’équipe ?",
+      "answer": "Oui. Le site accueille des séminaires et activités de cohésion d’équipe.",
+      "keywords": ["seminaire", "team building"]
+    },
+    "en": {
+      "category": "Seminars",
+      "question": "Can seminars or team days be organized?",
+      "answer": "Yes. The site hosts seminars and team-building activities.",
+      "keywords": ["seminar", "team building"]
+    },
+    "de": {
+      "category": "Seminare",
+      "question": "Kann man Seminare oder Teamtage organisieren?",
+      "answer": "Ja. Das Gelände eignet sich für Seminare und Teambuilding-Aktivitäten.",
+      "keywords": ["seminar", "teambuilding"]
+    }
+  }
+},
+{
+  "id": 41,
+  "page": "events",
+  "url": "https://www.baggerweier.lu/baggerweier.php",
+  "translations": {
+    "fr": {
+      "category": "Événements",
+      "question": "Le Baggerweier organise-t-il des événements publics ?",
+      "answer": "Oui. L’association organise régulièrement des animations ouvertes au public.",
+      "keywords": ["evenements", "animations"]
+    },
+    "en": {
+      "category": "Events",
+      "question": "Does Baggerweier organize public events?",
+      "answer": "Yes. The association regularly organizes events open to the public.",
+      "keywords": ["events", "public events"]
+    },
+    "de": {
+      "category": "Veranstaltungen",
+      "question": "Organisiert der Baggerweier öffentliche Veranstaltungen?",
+      "answer": "Ja. Der Verein organisiert regelmäßig öffentliche Veranstaltungen.",
+      "keywords": ["veranstaltungen", "öffentliche events"]
+    }
+  }
+},
+{
+  "id": 42,
+  "page": "events",
+  "url": "https://www.baggerweier.lu/baggerweier.php",
+  "translations": {
+    "fr": {
+      "category": "Événements",
+      "question": "Comment s’inscrire à un événement organisé au Baggerweier ?",
+      "answer": "Selon l’événement, un formulaire peut être demandé ou une inscription par email.",
+      "keywords": ["inscription evenement", "formulaire evenement"]
+    },
+    "en": {
+      "category": "Events",
+      "question": "How do you register for an event at Baggerweier?",
+      "answer": "Depending on the event, registration may require a form or an email.",
+      "keywords": ["event registration", "form", "email"]
+    },
+    "de": {
+      "category": "Veranstaltungen",
+      "question": "Wie meldet man sich für eine Veranstaltung am Baggerweier an?",
+      "answer": "Je nach Veranstaltung erfolgt die Anmeldung über ein Formular oder per E-Mail.",
+      "keywords": ["anmeldung event", "formular", "email"]
+    }
+  }
+},
+{
+  "id": 43,
+  "page": "visit",
+  "url": "https://www.baggerweier.lu/baggerweier.php",
+  "translations": {
+    "fr": {
+      "category": "Visite",
+      "question": "Peut-on simplement se promener autour du Baggerweier ?",
+      "answer": "Oui. Le site permet également de profiter du cadre naturel et de se promener autour des étangs, dans le respect du règlement et des zones accessibles au public.",
+      "keywords": ["promenade", "balade", "rando", "marcher autour lac", "se promener baggerweier", "promenade baggerweier"]
+    },
+    "en": {
+      "category": "Visit",
+      "question": "Can you simply walk around Baggerweier?",
+      "answer": "Yes. The site also allows visitors to enjoy the natural surroundings and walk around the lake, respecting the rules and accessible areas.",
+      "keywords": ["walk", "hiking", "lake walk", "baggerweier walk"]
+    },
+    "de": {
+      "category": "Besuch",
+      "question": "Kann man einfach um den Baggerweier spazieren gehen?",
+      "answer": "Ja. Das Gelände bietet die Möglichkeit, die Natur zu genießen und rund um den See zu spazieren, unter Beachtung der Regeln und zugänglichen Bereiche.",
+      "keywords": ["spaziergang", "wandern", "see umrunden"]
+    }
+  }
+},
+{
+  "id": 44,
+  "page": "visit",
+  "url": "https://www.baggerweier.lu/baggerweier.php",
+  "translations": {
+    "fr": {
+      "category": "randonnée",
+      "question": "Y a-t-il une randonnée autour du lac ?",
+      "answer": "Oui, il y a un sentier de promenade de 1.8 km autour du lac.",
+      "keywords": ["Promenade", "Randonnée", "Sentier", "Rando"]
+    },
+    "en": {
+      "category": "Hiking",
+      "question": "Is there a walking trail around the lake?",
+      "answer": "Yes, there is a 1.8 km walking path around the lake.",
+      "keywords": ["walk", "trail", "hiking", "path"]
+    },
+    "de": {
+      "category": "Wandern",
+      "question": "Gibt es einen Wanderweg rund um den See?",
+      "answer": "Ja, es gibt einen 1,8 km langen Rundweg um den See.",
+      "keywords": ["wanderweg", "spaziergang", "pfad"]
+    }
+  }
+}
+]

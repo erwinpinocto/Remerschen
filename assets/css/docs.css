@@ -1,0 +1,276 @@
+/* DOCS.CSS — DOCUMENTS ET FORMULAIRES */
+:root{
+  --font-color:#000;
+  --bg-color-2: #f0f0f0;
+  --bg-color-1: #f7f7f7;
+	--admin-color:#7a1f2b;
+  --shadow:rgba(0,0,0,.25);
+}
+.admin-only{
+	border:2px solid var(--admin-color);
+}
+*{
+  box-sizing:border-box;
+}
+/* Base document écran */
+.doc-wrapper{
+  font:12pt/1.6 "Times New Roman",Times,serif;
+  color:var(--font-color);
+  background:var(--bg-color-1);
+  margin:0;
+  padding:40px 0;
+  min-height:100vh;
+}
+/* Feuille A4 simulée à l’écran */
+@media screen{
+  .doc-container{
+    width:210mm;
+    min-height:297mm;
+    margin:0 auto;
+    padding:25mm;
+    background:var(--bg-color-1);
+    box-shadow:0 0 15px var(--shadow);
+  }
+}
+/* Header document */
+.doc-header{
+  display:flex;
+  align-items:center;
+  gap:20px;
+  border-bottom:2px solid #333;
+  padding-bottom:12px;
+  margin-bottom:30px;
+}
+.doc-header-logo{
+  flex:0 0 20%;
+}
+.doc-header-title{
+  flex:1;
+}
+.doc-header-logo img{
+  display:block;
+  max-height:90px;
+  width:auto;
+}
+.doc-header-title h1{
+  margin:0 0 5px;
+  font-size:20pt;
+  line-height:1.2;
+}
+.version{
+  font-size:11pt;
+  color:#555;
+}
+/* Sections document */
+.doc-section,
+.doc-form section{
+  margin-bottom:25px;
+  break-inside:avoid;
+  page-break-inside:avoid;
+}
+.doc-section h2,
+.doc-section h3,
+.doc-form h2,
+.doc-form h3{
+  font-weight:bold;
+  page-break-after:avoid;
+}
+.doc-section h2,
+.doc-form h2{
+  font-size:13pt;
+  margin:20px 0 10px;
+}
+.doc-section h3,
+.doc-form h3{
+  font-size:12pt;
+  margin:14px 0 8px;
+}
+.article-text{
+  margin:0 0 12px;
+  text-align:justify;
+  hyphens:auto;
+}
+.doc-section ul{
+  margin:8px 0 12px 22px;
+  padding:0;
+}
+.doc-section li{
+  margin-bottom:6px;
+}
+/* Images */
+.doc-container img{
+  max-width:100%;
+  height:auto;
+}
+/* Actions écran */
+.print-actions{
+  margin-top:30px;
+  text-align:right;
+}
+.print-actions button,
+.doc-form button{
+  padding:10px 16px;
+  border:1px solid #333;
+  background:var(--bg-color-1);
+  color:#000;
+  cursor:pointer;
+  font:inherit;
+}
+.no-print{
+  display:block;
+}
+/* Bloc admin */
+.admin-only{
+  border:2px solid var(--admin-color);
+  padding:16px;
+  margin-top:30px;
+  color:var(--admin-color);
+}
+.admin-only h2,
+.admin-only h3,
+.admin-only label{
+  color:var(--admin-color);
+}
+/* Formulaires documentaires */
+.doc-form label{
+  display:block;
+  margin-top:8px;
+  font-weight:600;
+  line-height:1.3;
+}
+.doc-form input,
+.doc-form textarea,
+.doc-form select{
+  width:100%;
+  padding:6px 8px;
+  margin-top:3px;
+  border:1px solid #999;
+  border-radius:3px;
+  font-family:inherit;
+  font-size:11pt;
+  background:var(--bg-color-1);
+}
+.doc-form textarea{
+  min-height:72px;
+}
+.doc-form input[type="checkbox"],
+.doc-form input[type="radio"]{
+  width:auto;
+  margin-right:8px;
+}
+.doc-form label input[type="checkbox"],
+.doc-form label input[type="radio"]{
+  margin-right:8px;
+}
+/* Grilles formulaire */
+.grid-2{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:14px 18px;
+}
+.grid-3{
+  display:grid;
+  grid-template-columns:1fr 1fr 1fr;
+  gap:14px 18px;
+}
+url(docs.css)
+/* Mobile */
+@media (max-width:900px){
+  .doc-wrapper{
+    padding:20px 0;
+  }
+  .doc-container{
+    width:auto;
+    max-width:95%;
+    margin:0 auto;
+    padding:20px;
+    box-shadow:none;
+  }
+  .doc-header{
+    flex-direction:column;
+    align-items:flex-start;
+  }
+  .doc-header-logo,
+  .doc-header-title{
+    flex:none;
+    width:100%;
+  }
+  .doc-header-logo img{
+    max-height:70px;
+  }
+  .doc-header-title h1{
+    font-size:17pt;
+  }
+}
+@media (max-width:700px){
+  .grid-2,
+  .grid-3{
+    grid-template-columns:1fr;
+  }
+}
+
+/* Impression */
+@media print{
+  @page{
+    size:A4;
+    margin:10mm;
+  }
+  html,body{
+    margin:0;
+    padding:0;
+    background:var(--bg-color-1);
+  }
+  .doc-wrapper{
+    background:var(--bg-color-1);
+    padding:0;
+    min-height:auto;
+  }
+  .doc-container{
+    width:auto;
+    max-width:none;
+    min-height:auto;
+    margin:0;
+    padding:0;
+    box-shadow:none;
+    background:var(--bg-color-1);
+  }
+  .doc-header,
+  .doc-section,
+  .doc-form section{
+    break-inside:avoid;
+    page-break-inside:avoid;
+  }
+  .doc-section h2,
+  .doc-section h3,
+  .doc-form h2,
+  .doc-form h3{
+    /* page-break-after:avoid;*/
+  }
+  .doc-form input[type="date"],
+  .doc-form input[type="time"]{
+    appearance:none;
+    -webkit-appearance:none;
+    -moz-appearance:textfield;
+    background:none;
+  }
+  .doc-form input[type="date"]::-webkit-calendar-picker-indicator,
+  .doc-form input[type="time"]::-webkit-calendar-picker-indicator{
+    display:none;
+  }
+  .no-print{
+    display:none !important;
+  }
+  .grid-2{grid-template-columns:1fr 1fr;}
+  .grid-3{grid-template-columns:1fr 1fr 1fr;}
+}
+
+/* doc image */
+.doc-img{
+	display:block;
+	margin:20px auto;
+	max-width:140mm;
+	width:100%;
+	height:auto;
+	border-radius:6px;
+	box-shadow:0 2px 6px rgba(0,0,0,0.15);
+}

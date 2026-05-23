@@ -1,0 +1,132 @@
+/* ========================= */
+/* FORMULAIRE BOOKING        */
+/* ========================= */
+
+.booking_form section{
+  margin-bottom:28px;
+}
+
+/* titres */
+
+.booking_form h2{
+  font-size:15pt;
+  margin:18px 0 10px 0;
+  border-bottom:2px solid #333;
+  padding-bottom:3px;
+}
+
+.booking_form h3{
+  font-size:12pt;
+  margin:14px 0 6px 0;
+}
+
+/* labels */
+
+.booking_form label{
+  display:block;
+  margin-top:8px;
+  font-weight:600;
+  line-height:1.3;
+}
+
+/* champs */
+
+.booking_form input,
+.booking_form textarea{
+  width:100%;
+  padding:6px 8px;
+  margin-top:3px;
+  border:1px solid #999;
+  border-radius:3px;
+  font-family:inherit;
+  font-size:11pt;
+  box-sizing:border-box;
+}
+
+/* textarea */
+
+.booking_form textarea{
+  min-height:72px;
+}
+
+/* checkbox */
+
+.booking_form input[type="checkbox"]{
+  width:auto;
+  margin-right:8px;
+}
+
+/* groupes checkbox */
+
+.booking_form label input[type="checkbox"]{
+  margin-right:8px;
+}
+
+/* bouton */
+
+.booking_form button{
+  margin-top:22px;
+  padding:9px 18px;
+  border:1px solid #333;
+  background:#fff;
+  cursor:pointer;
+  font-family:inherit;
+  font-size:11pt;
+}
+
+/* ========================= */
+/* PETITES GRILLES PRATIQUES */
+/* ========================= */
+
+/* ligne 2 champs */
+
+.booking_form .grid-2{
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  gap:14px 18px;
+}
+
+/* ligne 3 champs */
+
+.booking_form .grid-3{
+  display:grid;
+  grid-template-columns:1fr 1fr 1fr;
+  gap:14px 18px;
+}
+
+/* responsive */
+
+@media (max-width:700px){
+  .booking_form .grid-2,
+  .booking_form .grid-3{
+    grid-template-columns:1fr;
+  }
+}
+/* ADMIN */
+
+.admin-only{
+border:2px solid var(--admin-color);
+padding:16px;
+margin-top:30px;
+color:var(--admin-color);
+}
+
+.admin-only h2,
+.admin-only h3,
+.admin-only label{
+color:var(--admin-color);
+}
+@media print{
+  .booking_form input[type="date"],
+  .booking_form input[type="time"]{
+    appearance:none;
+    -webkit-appearance:none;
+    -moz-appearance:textfield;
+    background:none;
+  }
+
+  .booking_form input[type="date"]::-webkit-calendar-picker-indicator,
+  .booking_form input[type="time"]::-webkit-calendar-picker-indicator{
+    display:none;
+  }
+}
