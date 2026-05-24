@@ -96,6 +96,7 @@ PHP;
 		<li><a href="<?= BASE_URL ?>/admin/edit-news-events.php?type=events">Événements publics</a></li>
 		<li><a href="<?= BASE_URL ?>/admin/edit-news-events.php?type=carpo-events">Événements carpodrome</a></li>
 		<li><a href="<?= BASE_URL ?>/admin/edit-faq.php">FAQ</a></li>
+		<li><a href="<?= BASE_URL ?>/admin/admin-rates.php">💶 Tarifs</a></li>
 		<li><a href="<?= BASE_URL ?>/admin/admin-change-password.php">🔑 Changer le mot de passe</a></li>
 		<li><a href="<?= BASE_URL ?>/admin/admin-files-management.php">🗂️ Gestion des fichiers</a></li>
 	</ul>
