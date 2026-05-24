@@ -3,8 +3,8 @@ name: Deploy via FTP
 on:
   push:
     branches:
-      - master    # déclenche sur push vers master
-      - pp        # déclenche sur push vers pp
+      - master
+      - pp
 
 jobs:
   deploy-pp:
@@ -19,6 +19,12 @@ jobs:
           username: ${{ secrets.FTP_USER_PP }}
           password: ${{ secrets.FTP_PASS_PP }}
           server-dir: /
+          exclude: |
+            **/.git*
+            **/data/**
+            **/config/**
+            **/assets/img/news_events/**
+            **/assets/docs/**
 
   deploy-prod:
     if: github.ref == 'refs/heads/master'
@@ -32,3 +38,9 @@ jobs:
           username: ${{ secrets.FTP_USER_PROD }}
           password: ${{ secrets.FTP_PASS_PROD }}
           server-dir: /
+          exclude: |
+            **/.git*
+            **/data/**
+            **/config/**
+            **/assets/img/news_events/**
+            **/assets/docs/**
