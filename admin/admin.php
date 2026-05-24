@@ -92,6 +92,7 @@ PHP;
 	<h1>⚙️ Administration du site</h1>
 	<h2>📝 Gestion du contenu</h2>
 	<ul>
+		<li><a href="<?= BASE_URL ?>/index.php">← Accueil</a></li>
 		<li><a href="<?= BASE_URL ?>/admin/edit-news-events.php?type=news">Actualités</a></li>
 		<li><a href="<?= BASE_URL ?>/admin/edit-news-events.php?type=events">Événements publics</a></li>
 		<li><a href="<?= BASE_URL ?>/admin/edit-news-events.php?type=carpo-events">Événements carpodrome</a></li>
