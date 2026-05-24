@@ -61,9 +61,6 @@ button:hover { background: #005a87; }
         <input type="password" name="pass" placeholder="Mot de passe" required>
         <button type="submit">🚀 CONNEXION</button>
     </form>
-    <p style="margin-top: 20px; font-size: 14px; color: #666; text-align:center;">
-        Identifiants définis dans <code>config/config-admin.json</code>
-    </p>
     <p style="margin-top: 20px; font-size: 14px; text-align:center;">
         <a href="<?= BASE_URL ?>/index.php">← Retour à l'accueil</a>
     </p>

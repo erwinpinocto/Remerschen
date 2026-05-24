@@ -1,0 +1,34 @@
+name: Deploy via FTP
+
+on:
+  push:
+    branches:
+      - master    # déclenche sur push vers master
+      - pp        # déclenche sur push vers pp
+
+jobs:
+  deploy-pp:
+    if: github.ref == 'refs/heads/pp'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Deploy to PP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USER_PP }}
+          password: ${{ secrets.FTP_PASS_PP }}
+          server-dir: /
+
+  deploy-prod:
+    if: github.ref == 'refs/heads/master'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Deploy to PROD
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_HOST }}
+          username: ${{ secrets.FTP_USER_PROD }}
+          password: ${{ secrets.FTP_PASS_PROD }}
+          server-dir: /

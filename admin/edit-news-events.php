@@ -310,7 +310,7 @@ usort($items,static function($a,$b){
 		<a href="<?= BASE_URL ?>/admin/admin.php">← Admin</a>
 		<a href="<?= BASE_URL ?>/admin/edit-news-events.php?type=news">Actualités</a>
 		<a href="<?= BASE_URL ?>/admin/edit-news-events.php?type=events">Événements publics</a>
-		<a href="<?= BASE_URL ?>/admin/edit-news-events.php?type=carpo">Événements carpodrome</a>
+		<a href="<?= BASE_URL ?>/admin/edit-news-events.php?type=carpo-events">Événements carpodrome</a>
 		<a href="<?= BASE_URL ?>/admin/edit-faq.php?type=events">FAQ</a>
 	</div>
 	<h1><?= htmlspecialchars($pageTitle) ?></h1>

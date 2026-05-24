@@ -95,7 +95,7 @@
 	<details class="bloc-collapsible">
 		<summary class="bloc-collapsible-header">
 			<span class="bloc-collapsible-headtext">
-				<span class="bloc-collapsible-title"><?= htmlspecialchars(t('carpodrome.calendar_title')) ?></span>
+				<span class="bloc-collapsible-title">📅 <?= htmlspecialchars(t('carpodrome.calendar_title')) ?></span>
 				<span class="bloc-collapsible-subtitle"><?= htmlspecialchars(t('carpodrome.calendar_subtitle')) ?></span>
 			</span>
 		</summary>

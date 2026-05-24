@@ -16,9 +16,9 @@
         }
     },
     "info_du_jour": {
-        "fr": "Nouvelle version 1.0 du site web",
-        "de": "Neue Websiteversion 1.0",
-        "en": "New website version 1.0"
+        "fr": "Attention aux algues",
+        "de": "Achtung vor Algen",
+        "en": "Beware of algae"
     },
     "temperature": "18 °C"
 }
