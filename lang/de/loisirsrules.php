@@ -88,7 +88,7 @@
 	<h2>5. Tiere</h2>
 	<ul>
 		<li>Assistenzhunde sind auf dem gesamten Gelände zugelassen.</li>
-		<li>Hunde sind nur im ausgewiesenen Hundestrandbereich (Zone 6) sowie auf der Terrasse / Bar (Zone 2) zugelassen.</li>
+		<li>Hunde sind nur im ausgewiesenen Hundestrandbereich (Zone 6) zugelassen.</li>
 		<li>Sie müssen an der Leine geführt und unter der Kontrolle ihres Halters gehalten werden.</li>
 	</ul>
 </section>
@@ -108,6 +108,7 @@
 		<li>Der Zugang zum See ist während der Wintermonate streng verboten.</li>
 		<li>Das Gehen und jede andere Aktivität auf dem See sind bei schlechtem Wetter verboten.</li>
 		<li>Steine oder andere Gegenstände werfen, die auf dem gesamten Gelände Verletzungen verursachen könnten.</li>
+		<li>Die Benutzung von Shishas ist auf dem gesamten Gelände verboten.</li>
 	</ul>
 </section>
 <!-- =================================================

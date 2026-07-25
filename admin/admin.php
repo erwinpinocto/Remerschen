@@ -98,6 +98,7 @@ PHP;
 		<li><a href="<?= BASE_URL ?>/admin/edit-faq.php">FAQ</a></li>
 		<li><a href="<?= BASE_URL ?>/admin/admin-change-password.php">🔑 Changer le mot de passe</a></li>
 		<li><a href="<?= BASE_URL ?>/admin/admin-files-management.php">🗂️ Gestion des fichiers</a></li>
+		<li><a href="<?= BASE_URL ?>/index.php">← Accueil</a></li>
 	</ul>
 	<?php if(!empty($successMessage)) echo "<div class='success'>$successMessage</div>"; ?>
 	<form method="POST">

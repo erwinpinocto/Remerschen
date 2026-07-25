@@ -92,7 +92,7 @@
     <h2>5. Animaux</h2>
     <ul>
         <li>Les chiens d’assistance sont admis sur l’ensemble du site.</li>
-        <li>Les chiens sont admis uniquement dans la zone de plage canine désignée (Zone 6) et sur la terrasse / bar (Zone 2).</li>
+        <li>Les chiens sont admis uniquement dans la zone de plage canine désignée (Zone 6).</li>
         <li>Ils doivent être tenus en laisse et sous le contrôle de leur maître.</li>
     </ul>
 </section>
@@ -112,6 +112,7 @@
         <li>L’accès au lac est strictement interdit pendant les mois d’hiver.</li>
         <li>La marche et toute autre activité sur le lac sont interdites par mauvais temps.</li>
         <li>Jeter des pierres ou tout autre objet susceptible de blesser sur l’ensemble du site.</li>
+        <li>L’utilisation de chichas est interdite sur l’ensemble du site.</li>
     </ul>
 </section>
 <!-- =================================================
