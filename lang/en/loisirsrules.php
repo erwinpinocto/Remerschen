@@ -87,7 +87,7 @@
 	<h2>5. Animals</h2>
 	<ul>
 		<li>Assistance dogs are allowed throughout the entire site.</li>
-		<li>Dogs are only allowed in the designated dog beach area (Zone 6) and on the terrace/bar (Zone 2).</li>
+		<li>Dogs are only allowed in the designated dog beach area (Zone 6).</li>
 		<li>They must be kept on a leash and under their owner's control.</li>
 	</ul>
 </section>
@@ -107,6 +107,7 @@
 		<li>Access to the lake is strictly prohibited during the winter months.</li>
 		<li>Walking and any other activity on the lake are prohibited in bad weather.</li>
 		<li>Throwing stones or any object likely to cause injury anywhere on the site.</li>
+		<li>The use of shishas is prohibited throughout the entire site.</li>
 	</ul>
 </section>
 <!-- =================================================

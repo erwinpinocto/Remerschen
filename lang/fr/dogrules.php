@@ -13,7 +13,7 @@
 
 <p>Erliefnis Baggerweier a.s.b.l. ne pourra pas être tenu responsable en cas de blessure, de morsure, ou de préjudice matériel ou corporel survenu pendant ou après votre visite à l’espace pour chiens au Baggerweier.</p>
 
-<p>Hors de l’eau, les chiens doivent être tenus en laisse. Les détenteurs de chiens sont tenus de garder leur animal sous contrôle.</p>
+<p>Hors de l’eau, les chiens doivent être tenus en laisse. Les détenteurs de chiens sont tenus de garder leur animal sous contrôle en permanence.</p>
 
 <p>Chaque chien doit présenter un carnet de vaccination à jour ainsi qu’une vaccination antirabique à jour.</p>
 
@@ -23,9 +23,7 @@
 
 <p>Seuls les propriétaires ou gardiens de chiens sont responsables des incidents ou accidents causés par leurs chiens.</p>
 
-<p>Les chiens sont uniquement autorisés sur l’espace plage pour chiens (zone 6) ainsi que sur la terrasse de la buvette (zone 2).</p>
-
-<p>Les chiens doivent être tenus en laisse et sous le contrôle de leurs maîtres en permanence.</p>
+<p>Les chiens sont uniquement autorisés sur l’espace plage pour chiens (zone 6).</p>
 
 <h2>Pas de surveillance baignade</h2>
 <p>La direction décline toute responsabilité en cas d’accident ou de non-respect des consignes de sécurité.</p>
