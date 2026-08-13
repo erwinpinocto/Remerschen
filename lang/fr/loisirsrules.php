@@ -90,30 +90,35 @@
 ================================================== -->
 <section class="doc-section">
     <h2>5. Animaux</h2>
-    <ul>
-        <li>Les chiens d’assistance sont admis sur l’ensemble du site.</li>
-        <li>Les chiens sont admis uniquement dans la zone de plage canine désignée (Zone 6).</li>
-        <li>Ils doivent être tenus en laisse et sous le contrôle de leur maître.</li>
-    </ul>
+        <ul>
+            <li>Les chiens d’assistance désignés sont admis sur l’ensemble du site. Leurs propriétaires doivent pouvoir présenter les documents justificatifs correspondants.</li>
+            <li>Les chiens sont admis uniquement dans la zone de plage canine désignée (Zone 6). Les propriétaires accompagnés de leur chien doivent obligatoirement accéder au site par l’entrée de la Zone 6.</li>
+            <li>Les chiens doivent être tenus en laisse et sous le contrôle de leur maître.</li>
+            <li>Les documents d’identification du chien peuvent être demandés à tout moment.</li>
+            <li>Tout propriétaire est responsable du comportement de son animal.</li>
+        </ul>
 </section>
 <!-- =================================================
         6. Interdictions
 ================================================== -->
 <section class="doc-section">
     <h2>6. Interdictions</h2>
-    <ul>
-        <li>Feux à ciel ouvert en dehors des zones de barbecue désignées.</li>
-        <li>Enlever, endommager ou détruire des plantes ou des arbres.</li>
-        <li>Jeter des déchets dans le lac et ses abords ; des poubelles sont à disposition.</li>
-        <li>L’accès à vélo est interdit.</li>
-        <li>Déranger ou nourrir les oiseaux et autres animaux sauvages sur l’ensemble du site.</li>
-        <li>Le camping et les séjours de nuit sont interdits sur l’ensemble du site.</li>
-        <li>L’utilisation de bateaux à moteur, à l’exception de ceux appartenant au service de sauvetage et d’entretien, est interdite.</li>
-        <li>L’accès au lac est strictement interdit pendant les mois d’hiver.</li>
-        <li>La marche et toute autre activité sur le lac sont interdites par mauvais temps.</li>
-        <li>Jeter des pierres ou tout autre objet susceptible de blesser sur l’ensemble du site.</li>
-        <li>L’utilisation de chichas est interdite sur l’ensemble du site.</li>
-    </ul>
+        <ul>
+            <li>Les feux ouverts sont interdits en dehors des zones de barbecue désignées.</li>
+            <li>Il est interdit d’enlever, d’endommager ou de détruire des plantes ou des arbres.</li>
+            <li>Il est interdit de jeter des déchets dans le lac ou sur ses rives ; des poubelles sont mises à disposition.</li>
+            <li>L’accès à vélo est interdit.</li>
+            <li>Il est interdit de déranger ou de nourrir les oiseaux et autres animaux sauvages sur l’ensemble du site.</li>
+            <li>Le camping et les nuitées sont interdits sur l’ensemble du site.</li>
+            <li>L’utilisation de bateaux à moteur est interdite, à l’exception des bateaux des services de secours et de maintenance.</li>
+            <li>L’accès au lac est strictement interdit pendant les mois d’hiver.</li>
+            <li>En cas d’intempéries, toute activité sur l’eau est interdite.</li>
+            <li>Il est interdit de lancer des pierres ou tout autre objet susceptible de provoquer des blessures sur l’ensemble du site.</li>
+            <li>L’utilisation de chichas est interdite sur l’ensemble du site.</li>
+            <li>Le verre est interdit sur l’ensemble du site.</li>
+            <li>Toute consommation de drogues est strictement interdite sur l’ensemble du site.</li>
+            <li>L’exploitant se réserve le droit d’interdire les foyers privés.</li>
+        </ul>
 </section>
 <!-- =================================================
         7. Effets personnels

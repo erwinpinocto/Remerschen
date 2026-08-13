@@ -81,34 +81,40 @@
 	</ul>
 </section>
 <!-- =================================================
-		5. Animals
+        5. Animals
 ================================================== -->
 <section class="doc-section">
-	<h2>5. Animals</h2>
-	<ul>
-		<li>Assistance dogs are allowed throughout the entire site.</li>
-		<li>Dogs are only allowed in the designated dog beach area (Zone 6).</li>
-		<li>They must be kept on a leash and under their owner's control.</li>
-	</ul>
+    <h2>5. Animals</h2>
+    <ul>
+        <li>Designated assistance dogs are allowed throughout the entire site. Their owners must be able to provide the relevant supporting documentation.</li>
+        <li>Dogs are only allowed in the designated dog beach area (Zone 6). Visitors accompanied by a dog must enter the site through the Zone 6 entrance.</li>
+        <li>Dogs must be kept on a leash and under their owner's control.</li>
+        <li>The dog's identification documents may be requested at any time.</li>
+        <li>Each owner is responsible for the behaviour of their animal.</li>
+    </ul>
 </section>
+
 <!-- =================================================
-		6. Prohibitions
+        6. Prohibitions
 ================================================== -->
 <section class="doc-section">
-	<h2>6. Prohibitions</h2>
-	<ul>
-		<li>Open fires outside designated barbecue areas.</li>
-		<li>Removing, damaging or destroying plants or trees.</li>
-		<li>Throwing waste into the lake or surrounding areas; bins are provided.</li>
-		<li>Bicycle access is prohibited.</li>
-		<li>Disturbing or feeding birds and other wildlife throughout the site.</li>
-		<li>Camping and overnight stays are prohibited throughout the site.</li>
-		<li>The use of motorboats, except those belonging to rescue and maintenance services, is prohibited.</li>
-		<li>Access to the lake is strictly prohibited during the winter months.</li>
-		<li>Walking and any other activity on the lake are prohibited in bad weather.</li>
-		<li>Throwing stones or any object likely to cause injury anywhere on the site.</li>
-		<li>The use of shishas is prohibited throughout the entire site.</li>
-	</ul>
+    <h2>6. Prohibitions</h2>
+    <ul>
+        <li>Open fires are prohibited outside designated barbecue areas.</li>
+        <li>Removing, damaging or destroying plants or trees is prohibited.</li>
+        <li>Throwing waste into the lake or onto its shores is prohibited; bins are provided.</li>
+        <li>Bicycle access is prohibited.</li>
+        <li>Disturbing or feeding birds and other wildlife is prohibited throughout the site.</li>
+        <li>Camping and overnight stays are prohibited throughout the site.</li>
+        <li>The use of motorboats is prohibited, except for boats operated by the rescue and maintenance services.</li>
+        <li>Access to the lake is strictly prohibited during the winter months.</li>
+        <li>In the event of bad weather, all activities on the water are prohibited.</li>
+        <li>Throwing stones or other objects that could cause injury is prohibited throughout the site.</li>
+        <li>The use of shishas is prohibited throughout the site.</li>
+        <li>Glass is prohibited throughout the site.</li>
+        <li>The consumption of drugs is strictly prohibited throughout the site.</li>
+        <li>The operator reserves the right to prohibit private fire pits.</li>
+    </ul>
 </section>
 <!-- =================================================
 		7. Personal belongings

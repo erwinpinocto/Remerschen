@@ -86,30 +86,35 @@
 ================================================== -->
 <section class="doc-section">
 	<h2>5. Tiere</h2>
-	<ul>
-		<li>Assistenzhunde sind auf dem gesamten Gelände zugelassen.</li>
-		<li>Hunde sind nur im ausgewiesenen Hundestrandbereich (Zone 6) zugelassen.</li>
-		<li>Sie müssen an der Leine geführt und unter der Kontrolle ihres Halters gehalten werden.</li>
-	</ul>
+		<ul>
+			<li>Ausgewiesene Assistenzhunde sind auf dem gesamten Gelände zugelassen. Ihre Halter müssen die entsprechenden Nachweise vorlegen können.</li>
+			<li>Hunde sind nur im ausgewiesenen Hundestrandbereich (Zone 6) zugelassen. Besucher mit Hund müssen das Gelände zwingend über den Eingang der Zone 6 betreten.</li>
+			<li>Hunde müssen an der Leine geführt und unter der Kontrolle ihres Halters gehalten werden.</li>
+			<li>Die Begleitpapiere des Tieres können jederzeit kontrolliert werden.</li>
+			<li>Jeder Hundehalter ist allein für das Verhalten seines Tieres verantwortlich.</li>
+		</ul>
 </section>
 <!-- =================================================
 		6. Verbote
 ================================================== -->
 <section class="doc-section">
 	<h2>6. Verbote</h2>
-	<ul>
-		<li>Offene Feuer außerhalb der ausgewiesenen Grillbereiche.</li>
-		<li>Pflanzen oder Bäume entfernen, beschädigen oder zerstören.</li>
-		<li>Abfälle in den See oder an dessen Ufer werfen; Abfalleimer stehen zur Verfügung.</li>
-		<li>Der Zugang mit dem Fahrrad ist verboten.</li>
-		<li>Vögel und andere Wildtiere auf dem gesamten Gelände stören oder füttern.</li>
-		<li>Camping und Übernachtungen sind auf dem gesamten Gelände verboten.</li>
-		<li>Die Nutzung von Motorbooten ist verboten, mit Ausnahme der Boote des Rettungs- und Wartungsdienstes.</li>
-		<li>Der Zugang zum See ist während der Wintermonate streng verboten.</li>
-		<li>Das Gehen und jede andere Aktivität auf dem See sind bei schlechtem Wetter verboten.</li>
-		<li>Steine oder andere Gegenstände werfen, die auf dem gesamten Gelände Verletzungen verursachen könnten.</li>
-		<li>Die Benutzung von Shishas ist auf dem gesamten Gelände verboten.</li>
-	</ul>
+		<ul>
+			<li>Offene Feuer außerhalb der ausgewiesenen Grillbereiche.</li>
+			<li>Pflanzen oder Bäume entfernen, beschädigen oder zerstören.</li>
+			<li>Abfälle in den See oder an dessen Ufer werfen; Abfalleimer stehen zur Verfügung.</li>
+			<li>Der Zugang mit dem Fahrrad ist verboten.</li>
+			<li>Vögel und andere Wildtiere auf dem gesamten Gelände stören oder füttern.</li>
+			<li>Camping und Übernachtungen sind auf dem gesamten Gelände verboten.</li>
+			<li>Die Nutzung von Motorbooten ist verboten, mit Ausnahme der Boote des Rettungs- und Wartungsdienstes.</li>
+			<li>Der Zugang zum See ist während der Wintermonate streng verboten.</li>
+			<li>Bei Unwettern ist jede Aktivität auf dem Wasser verboten.</li>
+			<li>Steine oder andere Gegenstände werfen, die auf dem gesamten Gelände Verletzungen verursachen könnten.</li>
+			<li>Die Benutzung von Shishas ist auf dem gesamten Gelände verboten.</li>
+			<li>Glas ist auf dem gesamten Gelände verboten.</li>
+			<li>Der Konsum von Drogen ist auf dem gesamten Gelände streng verboten.</li>
+			<li>Der Betreiber behält sich das Recht vor, private Feuerstellen und Grillstellen zu verbieten.</li>
+		</ul>
 </section>
 <!-- =================================================
 		7. Persönliche Gegenstände
